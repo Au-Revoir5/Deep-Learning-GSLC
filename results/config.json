@@ -1,0 +1,59 @@
+{
+  "seed": 42,
+  "batch_size": 32,
+  "optimizer": "AdamW",
+  "weight_decay": 0.01,
+  "loss": "CrossEntropyLoss",
+  "early_stopping": {
+    "monitor": "val_loss",
+    "patience": 5,
+    "restore_best": true
+  },
+  "max_epochs": {
+    "scratch": 40,
+    "default": 25
+  },
+  "lr": {
+    "scratch": 0.001,
+    "head": 0.001,
+    "last_block": 0.0001
+  },
+  "input_size": 224,
+  "normalization": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "classes": [
+    "Abyssinian",
+    "Bengal",
+    "Birman",
+    "Ragdoll",
+    "Siamese",
+    "American Pit Bull Terrier",
+    "Staffordshire Bull Terrier",
+    "Beagle",
+    "Basset Hound",
+    "Samoyed"
+  ],
+  "split": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15,
+    "stratified": true
+  },
+  "smoke_test": false,
+  "env": {
+    "python": "3.13.15",
+    "torch": "2.11.0+cu130",
+    "torchvision": "0.26.0+cu130",
+    "gpu": "Tesla T4"
+  }
+}

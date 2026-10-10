@@ -1,0 +1,9 @@
+model,index,image_id,ground_truth,prediction,confidence,p_ground_truth,top3,hypothesis
+B5-EffB0,413,Siamese_115.jpg,Siamese,Birman,0.8377,0.1538,Birman=0.838; Siamese=0.154; Ragdoll=0.007,
+B5-EffB0,188,beagle_138.jpg,Beagle,Basset Hound,0.8299,0.164,Basset Hound=0.830; Beagle=0.164; American Pit Bull Terrier=0.003,
+B5-EffB0,1107,american_pit_bull_terrier_1.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.8122,0.1805,Staffordshire Bull Terrier=0.812; American Pit Bull Terrier=0.180; Basset Hound=0.003,
+B5-EffB0,1573,Birman_79.jpg,Birman,Ragdoll,0.7867,0.2099,Ragdoll=0.787; Birman=0.210; Abyssinian=0.001,
+B5-EffB0,1144,american_pit_bull_terrier_50.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.7622,0.2288,Staffordshire Bull Terrier=0.762; American Pit Bull Terrier=0.229; Basset Hound=0.005,
+B5-EffB0,573,american_pit_bull_terrier_167.jpg,American Pit Bull Terrier,Staffordshire Bull Terrier,0.7574,0.2288,Staffordshire Bull Terrier=0.757; American Pit Bull Terrier=0.229; Siamese=0.007,
+B5-EffB0,927,Siamese_185.jpg,Siamese,Birman,0.7317,0.2458,Birman=0.732; Siamese=0.246; Ragdoll=0.012,
+B5-EffB0,1925,staffordshire_bull_terrier_45.jpg,Staffordshire Bull Terrier,American Pit Bull Terrier,0.6754,0.1713,American Pit Bull Terrier=0.675; Staffordshire Bull Terrier=0.171; Beagle=0.096,

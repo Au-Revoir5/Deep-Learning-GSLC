@@ -1,0 +1,7 @@
+data/
+results/models/
+results_smoke/
+results_export/
+results_export.zip
+.ipynb_checkpoints/
+__pycache__/

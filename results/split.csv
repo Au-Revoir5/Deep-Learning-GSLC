@@ -1,0 +1,1987 @@
+index,image_id,label,class_name,split
+0,Abyssinian_100.jpg,0,Abyssinian,train
+1,Abyssinian_101.jpg,0,Abyssinian,test
+2,Abyssinian_102.jpg,0,Abyssinian,train
+3,Abyssinian_103.jpg,0,Abyssinian,val
+4,Abyssinian_104.jpg,0,Abyssinian,train
+5,Abyssinian_105.jpg,0,Abyssinian,train
+6,Abyssinian_106.jpg,0,Abyssinian,train
+7,Abyssinian_107.jpg,0,Abyssinian,test
+8,Abyssinian_108.jpg,0,Abyssinian,val
+9,Abyssinian_109.jpg,0,Abyssinian,train
+10,Abyssinian_10.jpg,0,Abyssinian,train
+11,Abyssinian_110.jpg,0,Abyssinian,train
+12,Abyssinian_111.jpg,0,Abyssinian,train
+13,Abyssinian_112.jpg,0,Abyssinian,val
+14,Abyssinian_113.jpg,0,Abyssinian,val
+15,Abyssinian_114.jpg,0,Abyssinian,train
+16,Abyssinian_115.jpg,0,Abyssinian,train
+17,Abyssinian_116.jpg,0,Abyssinian,val
+18,Abyssinian_117.jpg,0,Abyssinian,train
+19,Abyssinian_118.jpg,0,Abyssinian,train
+20,Abyssinian_119.jpg,0,Abyssinian,test
+21,Abyssinian_11.jpg,0,Abyssinian,val
+22,Abyssinian_120.jpg,0,Abyssinian,train
+23,Abyssinian_121.jpg,0,Abyssinian,train
+24,Abyssinian_122.jpg,0,Abyssinian,train
+25,Abyssinian_123.jpg,0,Abyssinian,train
+26,Abyssinian_124.jpg,0,Abyssinian,train
+27,Abyssinian_125.jpg,0,Abyssinian,train
+28,Abyssinian_126.jpg,0,Abyssinian,train
+29,Abyssinian_127.jpg,0,Abyssinian,train
+30,Abyssinian_128.jpg,0,Abyssinian,train
+31,Abyssinian_129.jpg,0,Abyssinian,train
+32,Abyssinian_12.jpg,0,Abyssinian,train
+33,Abyssinian_130.jpg,0,Abyssinian,train
+34,Abyssinian_131.jpg,0,Abyssinian,val
+35,Abyssinian_132.jpg,0,Abyssinian,train
+36,Abyssinian_133.jpg,0,Abyssinian,train
+37,Abyssinian_134.jpg,0,Abyssinian,val
+38,Abyssinian_135.jpg,0,Abyssinian,train
+39,Abyssinian_136.jpg,0,Abyssinian,train
+40,Abyssinian_137.jpg,0,Abyssinian,train
+41,Abyssinian_138.jpg,0,Abyssinian,train
+42,Abyssinian_139.jpg,0,Abyssinian,train
+43,Abyssinian_13.jpg,0,Abyssinian,test
+44,Abyssinian_140.jpg,0,Abyssinian,train
+45,Abyssinian_141.jpg,0,Abyssinian,train
+46,Abyssinian_142.jpg,0,Abyssinian,train
+47,Abyssinian_143.jpg,0,Abyssinian,train
+48,Abyssinian_144.jpg,0,Abyssinian,val
+49,Abyssinian_145.jpg,0,Abyssinian,test
+50,american_pit_bull_terrier_100.jpg,5,American Pit Bull Terrier,train
+51,american_pit_bull_terrier_101.jpg,5,American Pit Bull Terrier,train
+52,american_pit_bull_terrier_102.jpg,5,American Pit Bull Terrier,train
+53,american_pit_bull_terrier_103.jpg,5,American Pit Bull Terrier,train
+54,american_pit_bull_terrier_104.jpg,5,American Pit Bull Terrier,test
+55,american_pit_bull_terrier_105.jpg,5,American Pit Bull Terrier,train
+56,american_pit_bull_terrier_106.jpg,5,American Pit Bull Terrier,train
+57,american_pit_bull_terrier_107.jpg,5,American Pit Bull Terrier,train
+58,american_pit_bull_terrier_108.jpg,5,American Pit Bull Terrier,train
+59,american_pit_bull_terrier_109.jpg,5,American Pit Bull Terrier,test
+60,american_pit_bull_terrier_10.jpg,5,American Pit Bull Terrier,test
+61,american_pit_bull_terrier_110.jpg,5,American Pit Bull Terrier,train
+62,american_pit_bull_terrier_111.jpg,5,American Pit Bull Terrier,train
+63,american_pit_bull_terrier_112.jpg,5,American Pit Bull Terrier,train
+64,american_pit_bull_terrier_113.jpg,5,American Pit Bull Terrier,test
+65,american_pit_bull_terrier_114.jpg,5,American Pit Bull Terrier,train
+66,american_pit_bull_terrier_115.jpg,5,American Pit Bull Terrier,train
+67,american_pit_bull_terrier_116.jpg,5,American Pit Bull Terrier,train
+68,american_pit_bull_terrier_117.jpg,5,American Pit Bull Terrier,train
+69,american_pit_bull_terrier_118.jpg,5,American Pit Bull Terrier,train
+70,american_pit_bull_terrier_119.jpg,5,American Pit Bull Terrier,train
+71,american_pit_bull_terrier_11.jpg,5,American Pit Bull Terrier,train
+72,american_pit_bull_terrier_120.jpg,5,American Pit Bull Terrier,val
+73,american_pit_bull_terrier_121.jpg,5,American Pit Bull Terrier,train
+74,american_pit_bull_terrier_122.jpg,5,American Pit Bull Terrier,train
+75,american_pit_bull_terrier_123.jpg,5,American Pit Bull Terrier,val
+76,american_pit_bull_terrier_124.jpg,5,American Pit Bull Terrier,test
+77,american_pit_bull_terrier_125.jpg,5,American Pit Bull Terrier,train
+78,american_pit_bull_terrier_126.jpg,5,American Pit Bull Terrier,train
+79,american_pit_bull_terrier_127.jpg,5,American Pit Bull Terrier,train
+80,american_pit_bull_terrier_128.jpg,5,American Pit Bull Terrier,train
+81,american_pit_bull_terrier_129.jpg,5,American Pit Bull Terrier,train
+82,american_pit_bull_terrier_12.jpg,5,American Pit Bull Terrier,val
+83,american_pit_bull_terrier_130.jpg,5,American Pit Bull Terrier,train
+84,american_pit_bull_terrier_131.jpg,5,American Pit Bull Terrier,train
+85,american_pit_bull_terrier_132.jpg,5,American Pit Bull Terrier,test
+86,american_pit_bull_terrier_133.jpg,5,American Pit Bull Terrier,train
+87,american_pit_bull_terrier_134.jpg,5,American Pit Bull Terrier,val
+88,american_pit_bull_terrier_135.jpg,5,American Pit Bull Terrier,train
+89,american_pit_bull_terrier_136.jpg,5,American Pit Bull Terrier,train
+90,american_pit_bull_terrier_137.jpg,5,American Pit Bull Terrier,train
+91,american_pit_bull_terrier_138.jpg,5,American Pit Bull Terrier,val
+92,american_pit_bull_terrier_139.jpg,5,American Pit Bull Terrier,test
+93,american_pit_bull_terrier_13.jpg,5,American Pit Bull Terrier,train
+94,american_pit_bull_terrier_140.jpg,5,American Pit Bull Terrier,train
+95,american_pit_bull_terrier_141.jpg,5,American Pit Bull Terrier,val
+96,american_pit_bull_terrier_142.jpg,5,American Pit Bull Terrier,test
+97,american_pit_bull_terrier_143.jpg,5,American Pit Bull Terrier,train
+98,american_pit_bull_terrier_144.jpg,5,American Pit Bull Terrier,train
+99,american_pit_bull_terrier_145.jpg,5,American Pit Bull Terrier,train
+100,basset_hound_100.jpg,8,Basset Hound,train
+101,basset_hound_101.jpg,8,Basset Hound,train
+102,basset_hound_102.jpg,8,Basset Hound,train
+103,basset_hound_103.jpg,8,Basset Hound,test
+104,basset_hound_104.jpg,8,Basset Hound,train
+105,basset_hound_105.jpg,8,Basset Hound,train
+106,basset_hound_106.jpg,8,Basset Hound,val
+107,basset_hound_107.jpg,8,Basset Hound,train
+108,basset_hound_108.jpg,8,Basset Hound,train
+109,basset_hound_109.jpg,8,Basset Hound,train
+110,basset_hound_10.jpg,8,Basset Hound,train
+111,basset_hound_110.jpg,8,Basset Hound,val
+112,basset_hound_111.jpg,8,Basset Hound,test
+113,basset_hound_112.jpg,8,Basset Hound,val
+114,basset_hound_113.jpg,8,Basset Hound,val
+115,basset_hound_114.jpg,8,Basset Hound,train
+116,basset_hound_115.jpg,8,Basset Hound,val
+117,basset_hound_116.jpg,8,Basset Hound,train
+118,basset_hound_117.jpg,8,Basset Hound,train
+119,basset_hound_118.jpg,8,Basset Hound,train
+120,basset_hound_119.jpg,8,Basset Hound,train
+121,basset_hound_11.jpg,8,Basset Hound,val
+122,basset_hound_120.jpg,8,Basset Hound,train
+123,basset_hound_121.jpg,8,Basset Hound,train
+124,basset_hound_122.jpg,8,Basset Hound,train
+125,basset_hound_123.jpg,8,Basset Hound,test
+126,basset_hound_124.jpg,8,Basset Hound,train
+127,basset_hound_125.jpg,8,Basset Hound,train
+128,basset_hound_126.jpg,8,Basset Hound,test
+129,basset_hound_127.jpg,8,Basset Hound,train
+130,basset_hound_128.jpg,8,Basset Hound,train
+131,basset_hound_129.jpg,8,Basset Hound,test
+132,basset_hound_12.jpg,8,Basset Hound,val
+133,basset_hound_130.jpg,8,Basset Hound,train
+134,basset_hound_131.jpg,8,Basset Hound,train
+135,basset_hound_132.jpg,8,Basset Hound,train
+136,basset_hound_133.jpg,8,Basset Hound,test
+137,basset_hound_134.jpg,8,Basset Hound,train
+138,basset_hound_135.jpg,8,Basset Hound,val
+139,basset_hound_136.jpg,8,Basset Hound,train
+140,basset_hound_137.jpg,8,Basset Hound,train
+141,basset_hound_138.jpg,8,Basset Hound,train
+142,basset_hound_139.jpg,8,Basset Hound,train
+143,basset_hound_13.jpg,8,Basset Hound,train
+144,basset_hound_140.jpg,8,Basset Hound,train
+145,basset_hound_141.jpg,8,Basset Hound,val
+146,basset_hound_142.jpg,8,Basset Hound,train
+147,basset_hound_143.jpg,8,Basset Hound,train
+148,basset_hound_144.jpg,8,Basset Hound,train
+149,basset_hound_145.jpg,8,Basset Hound,test
+150,beagle_100.jpg,7,Beagle,train
+151,beagle_101.jpg,7,Beagle,train
+152,beagle_102.jpg,7,Beagle,train
+153,beagle_103.jpg,7,Beagle,test
+154,beagle_104.jpg,7,Beagle,train
+155,beagle_105.jpg,7,Beagle,train
+156,beagle_107.jpg,7,Beagle,val
+157,beagle_108.jpg,7,Beagle,train
+158,beagle_109.jpg,7,Beagle,train
+159,beagle_10.jpg,7,Beagle,test
+160,beagle_110.jpg,7,Beagle,train
+161,beagle_111.jpg,7,Beagle,train
+162,beagle_112.jpg,7,Beagle,test
+163,beagle_113.jpg,7,Beagle,val
+164,beagle_114.jpg,7,Beagle,test
+165,beagle_115.jpg,7,Beagle,test
+166,beagle_116.jpg,7,Beagle,test
+167,beagle_117.jpg,7,Beagle,test
+168,beagle_118.jpg,7,Beagle,train
+169,beagle_119.jpg,7,Beagle,train
+170,beagle_120.jpg,7,Beagle,train
+171,beagle_121.jpg,7,Beagle,train
+172,beagle_122.jpg,7,Beagle,train
+173,beagle_123.jpg,7,Beagle,train
+174,beagle_124.jpg,7,Beagle,train
+175,beagle_125.jpg,7,Beagle,val
+176,beagle_126.jpg,7,Beagle,train
+177,beagle_127.jpg,7,Beagle,train
+178,beagle_128.jpg,7,Beagle,val
+179,beagle_129.jpg,7,Beagle,train
+180,beagle_12.jpg,7,Beagle,train
+181,beagle_130.jpg,7,Beagle,val
+182,beagle_131.jpg,7,Beagle,train
+183,beagle_133.jpg,7,Beagle,test
+184,beagle_134.jpg,7,Beagle,train
+185,beagle_135.jpg,7,Beagle,train
+186,beagle_136.jpg,7,Beagle,val
+187,beagle_137.jpg,7,Beagle,train
+188,beagle_138.jpg,7,Beagle,test
+189,beagle_139.jpg,7,Beagle,train
+190,beagle_13.jpg,7,Beagle,train
+191,beagle_140.jpg,7,Beagle,train
+192,beagle_141.jpg,7,Beagle,train
+193,beagle_142.jpg,7,Beagle,train
+194,beagle_143.jpg,7,Beagle,val
+195,beagle_144.jpg,7,Beagle,test
+196,beagle_145.jpg,7,Beagle,test
+197,beagle_146.jpg,7,Beagle,train
+198,beagle_147.jpg,7,Beagle,train
+199,beagle_148.jpg,7,Beagle,train
+200,Bengal_100.jpg,1,Bengal,train
+201,Bengal_101.jpg,1,Bengal,val
+202,Bengal_102.jpg,1,Bengal,test
+203,Bengal_103.jpg,1,Bengal,train
+204,Bengal_104.jpg,1,Bengal,train
+205,Bengal_105.jpg,1,Bengal,train
+206,Bengal_106.jpg,1,Bengal,test
+207,Bengal_107.jpg,1,Bengal,train
+208,Bengal_108.jpg,1,Bengal,test
+209,Bengal_109.jpg,1,Bengal,train
+210,Bengal_10.jpg,1,Bengal,test
+211,Bengal_110.jpg,1,Bengal,train
+212,Bengal_111.jpg,1,Bengal,train
+213,Bengal_112.jpg,1,Bengal,train
+214,Bengal_113.jpg,1,Bengal,train
+215,Bengal_114.jpg,1,Bengal,train
+216,Bengal_115.jpg,1,Bengal,train
+217,Bengal_116.jpg,1,Bengal,train
+218,Bengal_117.jpg,1,Bengal,train
+219,Bengal_118.jpg,1,Bengal,train
+220,Bengal_119.jpg,1,Bengal,train
+221,Bengal_11.jpg,1,Bengal,train
+222,Bengal_120.jpg,1,Bengal,train
+223,Bengal_121.jpg,1,Bengal,val
+224,Bengal_122.jpg,1,Bengal,train
+225,Bengal_123.jpg,1,Bengal,train
+226,Bengal_124.jpg,1,Bengal,train
+227,Bengal_125.jpg,1,Bengal,train
+228,Bengal_126.jpg,1,Bengal,train
+229,Bengal_127.jpg,1,Bengal,train
+230,Bengal_128.jpg,1,Bengal,train
+231,Bengal_129.jpg,1,Bengal,train
+232,Bengal_12.jpg,1,Bengal,train
+233,Bengal_130.jpg,1,Bengal,train
+234,Bengal_131.jpg,1,Bengal,train
+235,Bengal_132.jpg,1,Bengal,train
+236,Bengal_133.jpg,1,Bengal,val
+237,Bengal_134.jpg,1,Bengal,val
+238,Bengal_135.jpg,1,Bengal,test
+239,Bengal_136.jpg,1,Bengal,train
+240,Bengal_137.jpg,1,Bengal,train
+241,Bengal_138.jpg,1,Bengal,test
+242,Bengal_139.jpg,1,Bengal,train
+243,Bengal_13.jpg,1,Bengal,train
+244,Bengal_140.jpg,1,Bengal,train
+245,Bengal_141.jpg,1,Bengal,train
+246,Bengal_142.jpg,1,Bengal,train
+247,Bengal_143.jpg,1,Bengal,val
+248,Bengal_144.jpg,1,Bengal,train
+249,Bengal_145.jpg,1,Bengal,train
+250,Birman_100.jpg,2,Birman,val
+251,Birman_101.jpg,2,Birman,train
+252,Birman_102.jpg,2,Birman,train
+253,Birman_103.jpg,2,Birman,val
+254,Birman_104.jpg,2,Birman,train
+255,Birman_105.jpg,2,Birman,train
+256,Birman_106.jpg,2,Birman,train
+257,Birman_107.jpg,2,Birman,train
+258,Birman_108.jpg,2,Birman,train
+259,Birman_109.jpg,2,Birman,val
+260,Birman_10.jpg,2,Birman,train
+261,Birman_110.jpg,2,Birman,train
+262,Birman_111.jpg,2,Birman,train
+263,Birman_112.jpg,2,Birman,train
+264,Birman_113.jpg,2,Birman,train
+265,Birman_114.jpg,2,Birman,val
+266,Birman_115.jpg,2,Birman,train
+267,Birman_116.jpg,2,Birman,train
+268,Birman_117.jpg,2,Birman,val
+269,Birman_118.jpg,2,Birman,train
+270,Birman_119.jpg,2,Birman,train
+271,Birman_11.jpg,2,Birman,val
+272,Birman_120.jpg,2,Birman,test
+273,Birman_121.jpg,2,Birman,test
+274,Birman_122.jpg,2,Birman,train
+275,Birman_123.jpg,2,Birman,train
+276,Birman_124.jpg,2,Birman,train
+277,Birman_125.jpg,2,Birman,train
+278,Birman_126.jpg,2,Birman,val
+279,Birman_127.jpg,2,Birman,train
+280,Birman_128.jpg,2,Birman,train
+281,Birman_129.jpg,2,Birman,train
+282,Birman_12.jpg,2,Birman,val
+283,Birman_130.jpg,2,Birman,test
+284,Birman_131.jpg,2,Birman,train
+285,Birman_132.jpg,2,Birman,train
+286,Birman_133.jpg,2,Birman,train
+287,Birman_134.jpg,2,Birman,train
+288,Birman_135.jpg,2,Birman,test
+289,Birman_136.jpg,2,Birman,train
+290,Birman_137.jpg,2,Birman,train
+291,Birman_138.jpg,2,Birman,train
+292,Birman_139.jpg,2,Birman,train
+293,Birman_13.jpg,2,Birman,train
+294,Birman_140.jpg,2,Birman,train
+295,Birman_141.jpg,2,Birman,train
+296,Birman_142.jpg,2,Birman,val
+297,Birman_143.jpg,2,Birman,val
+298,Birman_144.jpg,2,Birman,train
+299,Birman_145.jpg,2,Birman,train
+300,Ragdoll_100.jpg,3,Ragdoll,val
+301,Ragdoll_101.jpg,3,Ragdoll,train
+302,Ragdoll_103.jpg,3,Ragdoll,val
+303,Ragdoll_104.jpg,3,Ragdoll,train
+304,Ragdoll_105.jpg,3,Ragdoll,train
+305,Ragdoll_106.jpg,3,Ragdoll,train
+306,Ragdoll_107.jpg,3,Ragdoll,train
+307,Ragdoll_10.jpg,3,Ragdoll,val
+308,Ragdoll_110.jpg,3,Ragdoll,train
+309,Ragdoll_111.jpg,3,Ragdoll,val
+310,Ragdoll_112.jpg,3,Ragdoll,train
+311,Ragdoll_113.jpg,3,Ragdoll,val
+312,Ragdoll_114.jpg,3,Ragdoll,train
+313,Ragdoll_115.jpg,3,Ragdoll,test
+314,Ragdoll_116.jpg,3,Ragdoll,train
+315,Ragdoll_117.jpg,3,Ragdoll,val
+316,Ragdoll_118.jpg,3,Ragdoll,train
+317,Ragdoll_119.jpg,3,Ragdoll,train
+318,Ragdoll_121.jpg,3,Ragdoll,train
+319,Ragdoll_122.jpg,3,Ragdoll,test
+320,Ragdoll_124.jpg,3,Ragdoll,train
+321,Ragdoll_125.jpg,3,Ragdoll,train
+322,Ragdoll_126.jpg,3,Ragdoll,train
+323,Ragdoll_127.jpg,3,Ragdoll,train
+324,Ragdoll_128.jpg,3,Ragdoll,train
+325,Ragdoll_129.jpg,3,Ragdoll,train
+326,Ragdoll_12.jpg,3,Ragdoll,train
+327,Ragdoll_130.jpg,3,Ragdoll,test
+328,Ragdoll_131.jpg,3,Ragdoll,train
+329,Ragdoll_132.jpg,3,Ragdoll,train
+330,Ragdoll_133.jpg,3,Ragdoll,train
+331,Ragdoll_134.jpg,3,Ragdoll,train
+332,Ragdoll_135.jpg,3,Ragdoll,train
+333,Ragdoll_136.jpg,3,Ragdoll,train
+334,Ragdoll_137.jpg,3,Ragdoll,test
+335,Ragdoll_138.jpg,3,Ragdoll,train
+336,Ragdoll_139.jpg,3,Ragdoll,train
+337,Ragdoll_13.jpg,3,Ragdoll,train
+338,Ragdoll_140.jpg,3,Ragdoll,train
+339,Ragdoll_141.jpg,3,Ragdoll,train
+340,Ragdoll_142.jpg,3,Ragdoll,test
+341,Ragdoll_143.jpg,3,Ragdoll,train
+342,Ragdoll_145.jpg,3,Ragdoll,train
+343,Ragdoll_146.jpg,3,Ragdoll,val
+344,Ragdoll_147.jpg,3,Ragdoll,train
+345,Ragdoll_148.jpg,3,Ragdoll,val
+346,Ragdoll_149.jpg,3,Ragdoll,val
+347,Ragdoll_150.jpg,3,Ragdoll,train
+348,Ragdoll_151.jpg,3,Ragdoll,test
+349,Ragdoll_152.jpg,3,Ragdoll,train
+350,samoyed_100.jpg,9,Samoyed,train
+351,samoyed_101.jpg,9,Samoyed,train
+352,samoyed_102.jpg,9,Samoyed,val
+353,samoyed_103.jpg,9,Samoyed,test
+354,samoyed_104.jpg,9,Samoyed,train
+355,samoyed_105.jpg,9,Samoyed,train
+356,samoyed_106.jpg,9,Samoyed,train
+357,samoyed_107.jpg,9,Samoyed,train
+358,samoyed_108.jpg,9,Samoyed,train
+359,samoyed_109.jpg,9,Samoyed,train
+360,samoyed_10.jpg,9,Samoyed,train
+361,samoyed_110.jpg,9,Samoyed,test
+362,samoyed_111.jpg,9,Samoyed,train
+363,samoyed_112.jpg,9,Samoyed,test
+364,samoyed_113.jpg,9,Samoyed,train
+365,samoyed_114.jpg,9,Samoyed,train
+366,samoyed_115.jpg,9,Samoyed,train
+367,samoyed_116.jpg,9,Samoyed,train
+368,samoyed_117.jpg,9,Samoyed,train
+369,samoyed_118.jpg,9,Samoyed,val
+370,samoyed_119.jpg,9,Samoyed,train
+371,samoyed_11.jpg,9,Samoyed,test
+372,samoyed_120.jpg,9,Samoyed,train
+373,samoyed_121.jpg,9,Samoyed,val
+374,samoyed_122.jpg,9,Samoyed,test
+375,samoyed_123.jpg,9,Samoyed,train
+376,samoyed_124.jpg,9,Samoyed,train
+377,samoyed_125.jpg,9,Samoyed,train
+378,samoyed_126.jpg,9,Samoyed,train
+379,samoyed_127.jpg,9,Samoyed,train
+380,samoyed_128.jpg,9,Samoyed,train
+381,samoyed_129.jpg,9,Samoyed,test
+382,samoyed_12.jpg,9,Samoyed,train
+383,samoyed_130.jpg,9,Samoyed,train
+384,samoyed_131.jpg,9,Samoyed,val
+385,samoyed_132.jpg,9,Samoyed,train
+386,samoyed_133.jpg,9,Samoyed,test
+387,samoyed_134.jpg,9,Samoyed,train
+388,samoyed_135.jpg,9,Samoyed,train
+389,samoyed_136.jpg,9,Samoyed,train
+390,samoyed_137.jpg,9,Samoyed,test
+391,samoyed_138.jpg,9,Samoyed,train
+392,samoyed_139.jpg,9,Samoyed,train
+393,samoyed_13.jpg,9,Samoyed,val
+394,samoyed_140.jpg,9,Samoyed,val
+395,samoyed_141.jpg,9,Samoyed,train
+396,samoyed_142.jpg,9,Samoyed,train
+397,samoyed_143.jpg,9,Samoyed,train
+398,samoyed_144.jpg,9,Samoyed,val
+399,samoyed_145.jpg,9,Samoyed,val
+400,Siamese_100.jpg,4,Siamese,val
+401,Siamese_101.jpg,4,Siamese,train
+402,Siamese_102.jpg,4,Siamese,val
+403,Siamese_103.jpg,4,Siamese,train
+404,Siamese_104.jpg,4,Siamese,train
+405,Siamese_106.jpg,4,Siamese,train
+406,Siamese_108.jpg,4,Siamese,test
+407,Siamese_109.jpg,4,Siamese,val
+408,Siamese_110.jpg,4,Siamese,train
+409,Siamese_111.jpg,4,Siamese,train
+410,Siamese_112.jpg,4,Siamese,train
+411,Siamese_113.jpg,4,Siamese,train
+412,Siamese_114.jpg,4,Siamese,val
+413,Siamese_115.jpg,4,Siamese,test
+414,Siamese_116.jpg,4,Siamese,test
+415,Siamese_117.jpg,4,Siamese,train
+416,Siamese_119.jpg,4,Siamese,val
+417,Siamese_120.jpg,4,Siamese,test
+418,Siamese_122.jpg,4,Siamese,train
+419,Siamese_125.jpg,4,Siamese,train
+420,Siamese_126.jpg,4,Siamese,train
+421,Siamese_127.jpg,4,Siamese,train
+422,Siamese_128.jpg,4,Siamese,train
+423,Siamese_129.jpg,4,Siamese,train
+424,Siamese_130.jpg,4,Siamese,test
+425,Siamese_131.jpg,4,Siamese,val
+426,Siamese_133.jpg,4,Siamese,train
+427,Siamese_135.jpg,4,Siamese,val
+428,Siamese_136.jpg,4,Siamese,train
+429,Siamese_137.jpg,4,Siamese,train
+430,Siamese_138.jpg,4,Siamese,train
+431,Siamese_139.jpg,4,Siamese,train
+432,Siamese_140.jpg,4,Siamese,train
+433,Siamese_141.jpg,4,Siamese,test
+434,Siamese_142.jpg,4,Siamese,train
+435,Siamese_143.jpg,4,Siamese,test
+436,Siamese_144.jpg,4,Siamese,train
+437,Siamese_145.jpg,4,Siamese,test
+438,Siamese_146.jpg,4,Siamese,val
+439,Siamese_147.jpg,4,Siamese,train
+440,Siamese_148.jpg,4,Siamese,train
+441,Siamese_149.jpg,4,Siamese,train
+442,Siamese_14.jpg,4,Siamese,train
+443,Siamese_150.jpg,4,Siamese,test
+444,Siamese_151.jpg,4,Siamese,train
+445,Siamese_152.jpg,4,Siamese,train
+446,Siamese_153.jpg,4,Siamese,val
+447,Siamese_154.jpg,4,Siamese,test
+448,Siamese_155.jpg,4,Siamese,train
+449,Siamese_156.jpg,4,Siamese,train
+450,staffordshire_bull_terrier_100.jpg,6,Staffordshire Bull Terrier,train
+451,staffordshire_bull_terrier_101.jpg,6,Staffordshire Bull Terrier,val
+452,staffordshire_bull_terrier_102.jpg,6,Staffordshire Bull Terrier,train
+453,staffordshire_bull_terrier_103.jpg,6,Staffordshire Bull Terrier,train
+454,staffordshire_bull_terrier_104.jpg,6,Staffordshire Bull Terrier,test
+455,staffordshire_bull_terrier_105.jpg,6,Staffordshire Bull Terrier,train
+456,staffordshire_bull_terrier_106.jpg,6,Staffordshire Bull Terrier,val
+457,staffordshire_bull_terrier_107.jpg,6,Staffordshire Bull Terrier,test
+458,staffordshire_bull_terrier_108.jpg,6,Staffordshire Bull Terrier,train
+459,staffordshire_bull_terrier_109.jpg,6,Staffordshire Bull Terrier,train
+460,staffordshire_bull_terrier_10.jpg,6,Staffordshire Bull Terrier,test
+461,staffordshire_bull_terrier_110.jpg,6,Staffordshire Bull Terrier,train
+462,staffordshire_bull_terrier_111.jpg,6,Staffordshire Bull Terrier,train
+463,staffordshire_bull_terrier_112.jpg,6,Staffordshire Bull Terrier,val
+464,staffordshire_bull_terrier_113.jpg,6,Staffordshire Bull Terrier,train
+465,staffordshire_bull_terrier_114.jpg,6,Staffordshire Bull Terrier,train
+466,staffordshire_bull_terrier_115.jpg,6,Staffordshire Bull Terrier,train
+467,staffordshire_bull_terrier_116.jpg,6,Staffordshire Bull Terrier,train
+468,staffordshire_bull_terrier_117.jpg,6,Staffordshire Bull Terrier,train
+469,staffordshire_bull_terrier_118.jpg,6,Staffordshire Bull Terrier,val
+470,staffordshire_bull_terrier_119.jpg,6,Staffordshire Bull Terrier,train
+471,staffordshire_bull_terrier_11.jpg,6,Staffordshire Bull Terrier,train
+472,staffordshire_bull_terrier_120.jpg,6,Staffordshire Bull Terrier,train
+473,staffordshire_bull_terrier_121.jpg,6,Staffordshire Bull Terrier,test
+474,staffordshire_bull_terrier_122.jpg,6,Staffordshire Bull Terrier,train
+475,staffordshire_bull_terrier_123.jpg,6,Staffordshire Bull Terrier,train
+476,staffordshire_bull_terrier_124.jpg,6,Staffordshire Bull Terrier,train
+477,staffordshire_bull_terrier_125.jpg,6,Staffordshire Bull Terrier,train
+478,staffordshire_bull_terrier_126.jpg,6,Staffordshire Bull Terrier,val
+479,staffordshire_bull_terrier_127.jpg,6,Staffordshire Bull Terrier,train
+480,staffordshire_bull_terrier_128.jpg,6,Staffordshire Bull Terrier,train
+481,staffordshire_bull_terrier_129.jpg,6,Staffordshire Bull Terrier,val
+482,staffordshire_bull_terrier_12.jpg,6,Staffordshire Bull Terrier,train
+483,staffordshire_bull_terrier_130.jpg,6,Staffordshire Bull Terrier,train
+484,staffordshire_bull_terrier_131.jpg,6,Staffordshire Bull Terrier,test
+485,staffordshire_bull_terrier_132.jpg,6,Staffordshire Bull Terrier,test
+486,staffordshire_bull_terrier_133.jpg,6,Staffordshire Bull Terrier,test
+487,staffordshire_bull_terrier_134.jpg,6,Staffordshire Bull Terrier,train
+488,staffordshire_bull_terrier_135.jpg,6,Staffordshire Bull Terrier,train
+489,staffordshire_bull_terrier_136.jpg,6,Staffordshire Bull Terrier,train
+490,staffordshire_bull_terrier_137.jpg,6,Staffordshire Bull Terrier,train
+491,staffordshire_bull_terrier_138.jpg,6,Staffordshire Bull Terrier,train
+492,staffordshire_bull_terrier_139.jpg,6,Staffordshire Bull Terrier,train
+493,staffordshire_bull_terrier_13.jpg,6,Staffordshire Bull Terrier,train
+494,staffordshire_bull_terrier_140.jpg,6,Staffordshire Bull Terrier,train
+495,staffordshire_bull_terrier_141.jpg,6,Staffordshire Bull Terrier,val
+496,staffordshire_bull_terrier_143.jpg,6,Staffordshire Bull Terrier,test
+497,staffordshire_bull_terrier_144.jpg,6,Staffordshire Bull Terrier,train
+498,staffordshire_bull_terrier_145.jpg,6,Staffordshire Bull Terrier,train
+499,staffordshire_bull_terrier_147.jpg,6,Staffordshire Bull Terrier,train
+500,Abyssinian_146.jpg,0,Abyssinian,test
+501,Abyssinian_148.jpg,0,Abyssinian,train
+502,Abyssinian_149.jpg,0,Abyssinian,test
+503,Abyssinian_14.jpg,0,Abyssinian,test
+504,Abyssinian_150.jpg,0,Abyssinian,test
+505,Abyssinian_151.jpg,0,Abyssinian,train
+506,Abyssinian_152.jpg,0,Abyssinian,train
+507,Abyssinian_153.jpg,0,Abyssinian,val
+508,Abyssinian_154.jpg,0,Abyssinian,test
+509,Abyssinian_155.jpg,0,Abyssinian,val
+510,Abyssinian_156.jpg,0,Abyssinian,train
+511,Abyssinian_157.jpg,0,Abyssinian,train
+512,Abyssinian_158.jpg,0,Abyssinian,train
+513,Abyssinian_159.jpg,0,Abyssinian,test
+514,Abyssinian_15.jpg,0,Abyssinian,train
+515,Abyssinian_160.jpg,0,Abyssinian,train
+516,Abyssinian_161.jpg,0,Abyssinian,train
+517,Abyssinian_164.jpg,0,Abyssinian,train
+518,Abyssinian_165.jpg,0,Abyssinian,train
+519,Abyssinian_166.jpg,0,Abyssinian,train
+520,Abyssinian_167.jpg,0,Abyssinian,train
+521,Abyssinian_168.jpg,0,Abyssinian,train
+522,Abyssinian_169.jpg,0,Abyssinian,test
+523,Abyssinian_16.jpg,0,Abyssinian,train
+524,Abyssinian_170.jpg,0,Abyssinian,train
+525,Abyssinian_172.jpg,0,Abyssinian,train
+526,Abyssinian_173.jpg,0,Abyssinian,train
+527,Abyssinian_174.jpg,0,Abyssinian,train
+528,Abyssinian_175.jpg,0,Abyssinian,train
+529,Abyssinian_176.jpg,0,Abyssinian,train
+530,Abyssinian_177.jpg,0,Abyssinian,test
+531,Abyssinian_178.jpg,0,Abyssinian,train
+532,Abyssinian_179.jpg,0,Abyssinian,train
+533,Abyssinian_17.jpg,0,Abyssinian,val
+534,Abyssinian_180.jpg,0,Abyssinian,train
+535,Abyssinian_181.jpg,0,Abyssinian,train
+536,Abyssinian_182.jpg,0,Abyssinian,train
+537,Abyssinian_183.jpg,0,Abyssinian,val
+538,Abyssinian_184.jpg,0,Abyssinian,val
+539,Abyssinian_185.jpg,0,Abyssinian,val
+540,Abyssinian_18.jpg,0,Abyssinian,train
+541,Abyssinian_190.jpg,0,Abyssinian,test
+542,Abyssinian_191.jpg,0,Abyssinian,train
+543,Abyssinian_192.jpg,0,Abyssinian,train
+544,Abyssinian_193.jpg,0,Abyssinian,test
+545,Abyssinian_195.jpg,0,Abyssinian,train
+546,Abyssinian_196.jpg,0,Abyssinian,train
+547,Abyssinian_197.jpg,0,Abyssinian,train
+548,Abyssinian_19.jpg,0,Abyssinian,train
+549,Abyssinian_1.jpg,0,Abyssinian,test
+550,american_pit_bull_terrier_146.jpg,5,American Pit Bull Terrier,train
+551,american_pit_bull_terrier_147.jpg,5,American Pit Bull Terrier,train
+552,american_pit_bull_terrier_148.jpg,5,American Pit Bull Terrier,train
+553,american_pit_bull_terrier_149.jpg,5,American Pit Bull Terrier,train
+554,american_pit_bull_terrier_14.jpg,5,American Pit Bull Terrier,train
+555,american_pit_bull_terrier_150.jpg,5,American Pit Bull Terrier,train
+556,american_pit_bull_terrier_151.jpg,5,American Pit Bull Terrier,train
+557,american_pit_bull_terrier_152.jpg,5,American Pit Bull Terrier,train
+558,american_pit_bull_terrier_153.jpg,5,American Pit Bull Terrier,train
+559,american_pit_bull_terrier_154.jpg,5,American Pit Bull Terrier,train
+560,american_pit_bull_terrier_155.jpg,5,American Pit Bull Terrier,train
+561,american_pit_bull_terrier_156.jpg,5,American Pit Bull Terrier,train
+562,american_pit_bull_terrier_157.jpg,5,American Pit Bull Terrier,train
+563,american_pit_bull_terrier_158.jpg,5,American Pit Bull Terrier,train
+564,american_pit_bull_terrier_159.jpg,5,American Pit Bull Terrier,train
+565,american_pit_bull_terrier_15.jpg,5,American Pit Bull Terrier,val
+566,american_pit_bull_terrier_160.jpg,5,American Pit Bull Terrier,test
+567,american_pit_bull_terrier_161.jpg,5,American Pit Bull Terrier,val
+568,american_pit_bull_terrier_162.jpg,5,American Pit Bull Terrier,val
+569,american_pit_bull_terrier_163.jpg,5,American Pit Bull Terrier,train
+570,american_pit_bull_terrier_164.jpg,5,American Pit Bull Terrier,train
+571,american_pit_bull_terrier_165.jpg,5,American Pit Bull Terrier,train
+572,american_pit_bull_terrier_166.jpg,5,American Pit Bull Terrier,train
+573,american_pit_bull_terrier_167.jpg,5,American Pit Bull Terrier,test
+574,american_pit_bull_terrier_168.jpg,5,American Pit Bull Terrier,train
+575,american_pit_bull_terrier_169.jpg,5,American Pit Bull Terrier,test
+576,american_pit_bull_terrier_16.jpg,5,American Pit Bull Terrier,train
+577,american_pit_bull_terrier_170.jpg,5,American Pit Bull Terrier,train
+578,american_pit_bull_terrier_171.jpg,5,American Pit Bull Terrier,train
+579,american_pit_bull_terrier_172.jpg,5,American Pit Bull Terrier,train
+580,american_pit_bull_terrier_173.jpg,5,American Pit Bull Terrier,train
+581,american_pit_bull_terrier_174.jpg,5,American Pit Bull Terrier,train
+582,american_pit_bull_terrier_175.jpg,5,American Pit Bull Terrier,train
+583,american_pit_bull_terrier_176.jpg,5,American Pit Bull Terrier,train
+584,american_pit_bull_terrier_177.jpg,5,American Pit Bull Terrier,train
+585,american_pit_bull_terrier_178.jpg,5,American Pit Bull Terrier,val
+586,american_pit_bull_terrier_179.jpg,5,American Pit Bull Terrier,train
+587,american_pit_bull_terrier_17.jpg,5,American Pit Bull Terrier,train
+588,american_pit_bull_terrier_180.jpg,5,American Pit Bull Terrier,train
+589,american_pit_bull_terrier_181.jpg,5,American Pit Bull Terrier,test
+590,american_pit_bull_terrier_182.jpg,5,American Pit Bull Terrier,train
+591,american_pit_bull_terrier_183.jpg,5,American Pit Bull Terrier,train
+592,american_pit_bull_terrier_184.jpg,5,American Pit Bull Terrier,train
+593,american_pit_bull_terrier_185.jpg,5,American Pit Bull Terrier,train
+594,american_pit_bull_terrier_186.jpg,5,American Pit Bull Terrier,test
+595,american_pit_bull_terrier_187.jpg,5,American Pit Bull Terrier,train
+596,american_pit_bull_terrier_188.jpg,5,American Pit Bull Terrier,test
+597,american_pit_bull_terrier_189.jpg,5,American Pit Bull Terrier,train
+598,american_pit_bull_terrier_18.jpg,5,American Pit Bull Terrier,train
+599,american_pit_bull_terrier_190.jpg,5,American Pit Bull Terrier,train
+600,basset_hound_146.jpg,8,Basset Hound,train
+601,basset_hound_147.jpg,8,Basset Hound,train
+602,basset_hound_148.jpg,8,Basset Hound,train
+603,basset_hound_149.jpg,8,Basset Hound,train
+604,basset_hound_14.jpg,8,Basset Hound,train
+605,basset_hound_150.jpg,8,Basset Hound,train
+606,basset_hound_151.jpg,8,Basset Hound,train
+607,basset_hound_152.jpg,8,Basset Hound,val
+608,basset_hound_153.jpg,8,Basset Hound,train
+609,basset_hound_154.jpg,8,Basset Hound,test
+610,basset_hound_155.jpg,8,Basset Hound,train
+611,basset_hound_156.jpg,8,Basset Hound,train
+612,basset_hound_157.jpg,8,Basset Hound,test
+613,basset_hound_158.jpg,8,Basset Hound,train
+614,basset_hound_159.jpg,8,Basset Hound,train
+615,basset_hound_15.jpg,8,Basset Hound,train
+616,basset_hound_160.jpg,8,Basset Hound,train
+617,basset_hound_161.jpg,8,Basset Hound,test
+618,basset_hound_162.jpg,8,Basset Hound,train
+619,basset_hound_163.jpg,8,Basset Hound,val
+620,basset_hound_164.jpg,8,Basset Hound,train
+621,basset_hound_165.jpg,8,Basset Hound,train
+622,basset_hound_166.jpg,8,Basset Hound,train
+623,basset_hound_167.jpg,8,Basset Hound,val
+624,basset_hound_168.jpg,8,Basset Hound,val
+625,basset_hound_169.jpg,8,Basset Hound,train
+626,basset_hound_16.jpg,8,Basset Hound,train
+627,basset_hound_170.jpg,8,Basset Hound,train
+628,basset_hound_171.jpg,8,Basset Hound,val
+629,basset_hound_172.jpg,8,Basset Hound,train
+630,basset_hound_173.jpg,8,Basset Hound,train
+631,basset_hound_174.jpg,8,Basset Hound,train
+632,basset_hound_175.jpg,8,Basset Hound,train
+633,basset_hound_176.jpg,8,Basset Hound,test
+634,basset_hound_177.jpg,8,Basset Hound,train
+635,basset_hound_178.jpg,8,Basset Hound,train
+636,basset_hound_179.jpg,8,Basset Hound,train
+637,basset_hound_17.jpg,8,Basset Hound,val
+638,basset_hound_180.jpg,8,Basset Hound,train
+639,basset_hound_181.jpg,8,Basset Hound,train
+640,basset_hound_182.jpg,8,Basset Hound,train
+641,basset_hound_183.jpg,8,Basset Hound,train
+642,basset_hound_184.jpg,8,Basset Hound,train
+643,basset_hound_185.jpg,8,Basset Hound,train
+644,basset_hound_186.jpg,8,Basset Hound,train
+645,basset_hound_187.jpg,8,Basset Hound,test
+646,basset_hound_188.jpg,8,Basset Hound,train
+647,basset_hound_189.jpg,8,Basset Hound,val
+648,basset_hound_18.jpg,8,Basset Hound,test
+649,basset_hound_190.jpg,8,Basset Hound,train
+650,beagle_149.jpg,7,Beagle,train
+651,beagle_14.jpg,7,Beagle,train
+652,beagle_150.jpg,7,Beagle,train
+653,beagle_151.jpg,7,Beagle,train
+654,beagle_152.jpg,7,Beagle,test
+655,beagle_153.jpg,7,Beagle,train
+656,beagle_154.jpg,7,Beagle,train
+657,beagle_155.jpg,7,Beagle,train
+658,beagle_156.jpg,7,Beagle,val
+659,beagle_157.jpg,7,Beagle,train
+660,beagle_158.jpg,7,Beagle,train
+661,beagle_15.jpg,7,Beagle,test
+662,beagle_160.jpg,7,Beagle,train
+663,beagle_161.jpg,7,Beagle,train
+664,beagle_162.jpg,7,Beagle,train
+665,beagle_163.jpg,7,Beagle,train
+666,beagle_164.jpg,7,Beagle,train
+667,beagle_165.jpg,7,Beagle,train
+668,beagle_166.jpg,7,Beagle,train
+669,beagle_167.jpg,7,Beagle,train
+670,beagle_168.jpg,7,Beagle,train
+671,beagle_169.jpg,7,Beagle,val
+672,beagle_16.jpg,7,Beagle,train
+673,beagle_170.jpg,7,Beagle,train
+674,beagle_171.jpg,7,Beagle,train
+675,beagle_172.jpg,7,Beagle,train
+676,beagle_173.jpg,7,Beagle,train
+677,beagle_174.jpg,7,Beagle,train
+678,beagle_175.jpg,7,Beagle,val
+679,beagle_176.jpg,7,Beagle,train
+680,beagle_177.jpg,7,Beagle,train
+681,beagle_178.jpg,7,Beagle,val
+682,beagle_179.jpg,7,Beagle,train
+683,beagle_17.jpg,7,Beagle,val
+684,beagle_180.jpg,7,Beagle,train
+685,beagle_181.jpg,7,Beagle,test
+686,beagle_182.jpg,7,Beagle,train
+687,beagle_183.jpg,7,Beagle,train
+688,beagle_184.jpg,7,Beagle,train
+689,beagle_185.jpg,7,Beagle,train
+690,beagle_186.jpg,7,Beagle,train
+691,beagle_187.jpg,7,Beagle,train
+692,beagle_188.jpg,7,Beagle,val
+693,beagle_189.jpg,7,Beagle,train
+694,beagle_18.jpg,7,Beagle,train
+695,beagle_190.jpg,7,Beagle,test
+696,beagle_191.jpg,7,Beagle,train
+697,beagle_192.jpg,7,Beagle,val
+698,beagle_193.jpg,7,Beagle,train
+699,beagle_194.jpg,7,Beagle,train
+700,Bengal_146.jpg,1,Bengal,train
+701,Bengal_147.jpg,1,Bengal,test
+702,Bengal_148.jpg,1,Bengal,train
+703,Bengal_149.jpg,1,Bengal,val
+704,Bengal_14.jpg,1,Bengal,train
+705,Bengal_150.jpg,1,Bengal,train
+706,Bengal_151.jpg,1,Bengal,train
+707,Bengal_152.jpg,1,Bengal,train
+708,Bengal_153.jpg,1,Bengal,train
+709,Bengal_154.jpg,1,Bengal,val
+710,Bengal_155.jpg,1,Bengal,train
+711,Bengal_156.jpg,1,Bengal,train
+712,Bengal_157.jpg,1,Bengal,train
+713,Bengal_158.jpg,1,Bengal,train
+714,Bengal_159.jpg,1,Bengal,train
+715,Bengal_15.jpg,1,Bengal,train
+716,Bengal_160.jpg,1,Bengal,train
+717,Bengal_161.jpg,1,Bengal,test
+718,Bengal_162.jpg,1,Bengal,val
+719,Bengal_163.jpg,1,Bengal,test
+720,Bengal_164.jpg,1,Bengal,train
+721,Bengal_165.jpg,1,Bengal,train
+722,Bengal_166.jpg,1,Bengal,train
+723,Bengal_167.jpg,1,Bengal,train
+724,Bengal_168.jpg,1,Bengal,test
+725,Bengal_169.jpg,1,Bengal,train
+726,Bengal_16.jpg,1,Bengal,train
+727,Bengal_170.jpg,1,Bengal,train
+728,Bengal_171.jpg,1,Bengal,train
+729,Bengal_172.jpg,1,Bengal,train
+730,Bengal_173.jpg,1,Bengal,train
+731,Bengal_174.jpg,1,Bengal,test
+732,Bengal_175.jpg,1,Bengal,train
+733,Bengal_176.jpg,1,Bengal,train
+734,Bengal_177.jpg,1,Bengal,train
+735,Bengal_178.jpg,1,Bengal,train
+736,Bengal_179.jpg,1,Bengal,train
+737,Bengal_17.jpg,1,Bengal,train
+738,Bengal_180.jpg,1,Bengal,train
+739,Bengal_182.jpg,1,Bengal,val
+740,Bengal_183.jpg,1,Bengal,train
+741,Bengal_184.jpg,1,Bengal,train
+742,Bengal_185.jpg,1,Bengal,val
+743,Bengal_186.jpg,1,Bengal,train
+744,Bengal_187.jpg,1,Bengal,train
+745,Bengal_188.jpg,1,Bengal,test
+746,Bengal_189.jpg,1,Bengal,val
+747,Bengal_18.jpg,1,Bengal,test
+748,Bengal_190.jpg,1,Bengal,test
+749,Bengal_191.jpg,1,Bengal,train
+750,Birman_146.jpg,2,Birman,train
+751,Birman_147.jpg,2,Birman,train
+752,Birman_148.jpg,2,Birman,train
+753,Birman_149.jpg,2,Birman,train
+754,Birman_14.jpg,2,Birman,train
+755,Birman_150.jpg,2,Birman,train
+756,Birman_151.jpg,2,Birman,train
+757,Birman_152.jpg,2,Birman,test
+758,Birman_153.jpg,2,Birman,train
+759,Birman_154.jpg,2,Birman,train
+760,Birman_155.jpg,2,Birman,train
+761,Birman_156.jpg,2,Birman,test
+762,Birman_157.jpg,2,Birman,val
+763,Birman_158.jpg,2,Birman,train
+764,Birman_159.jpg,2,Birman,train
+765,Birman_15.jpg,2,Birman,train
+766,Birman_160.jpg,2,Birman,train
+767,Birman_161.jpg,2,Birman,train
+768,Birman_162.jpg,2,Birman,test
+769,Birman_163.jpg,2,Birman,train
+770,Birman_164.jpg,2,Birman,train
+771,Birman_165.jpg,2,Birman,train
+772,Birman_166.jpg,2,Birman,train
+773,Birman_167.jpg,2,Birman,train
+774,Birman_168.jpg,2,Birman,train
+775,Birman_169.jpg,2,Birman,test
+776,Birman_16.jpg,2,Birman,train
+777,Birman_170.jpg,2,Birman,train
+778,Birman_171.jpg,2,Birman,train
+779,Birman_172.jpg,2,Birman,train
+780,Birman_173.jpg,2,Birman,train
+781,Birman_174.jpg,2,Birman,train
+782,Birman_175.jpg,2,Birman,train
+783,Birman_176.jpg,2,Birman,train
+784,Birman_177.jpg,2,Birman,val
+785,Birman_178.jpg,2,Birman,test
+786,Birman_179.jpg,2,Birman,train
+787,Birman_17.jpg,2,Birman,train
+788,Birman_180.jpg,2,Birman,test
+789,Birman_181.jpg,2,Birman,test
+790,Birman_182.jpg,2,Birman,train
+791,Birman_183.jpg,2,Birman,val
+792,Birman_184.jpg,2,Birman,test
+793,Birman_185.jpg,2,Birman,val
+794,Birman_186.jpg,2,Birman,train
+795,Birman_187.jpg,2,Birman,test
+796,Birman_188.jpg,2,Birman,train
+797,Birman_189.jpg,2,Birman,train
+798,Birman_18.jpg,2,Birman,train
+799,Birman_190.jpg,2,Birman,test
+800,Ragdoll_153.jpg,3,Ragdoll,train
+801,Ragdoll_154.jpg,3,Ragdoll,train
+802,Ragdoll_155.jpg,3,Ragdoll,train
+803,Ragdoll_156.jpg,3,Ragdoll,test
+804,Ragdoll_158.jpg,3,Ragdoll,train
+805,Ragdoll_159.jpg,3,Ragdoll,test
+806,Ragdoll_160.jpg,3,Ragdoll,train
+807,Ragdoll_161.jpg,3,Ragdoll,val
+808,Ragdoll_162.jpg,3,Ragdoll,train
+809,Ragdoll_163.jpg,3,Ragdoll,test
+810,Ragdoll_164.jpg,3,Ragdoll,val
+811,Ragdoll_165.jpg,3,Ragdoll,train
+812,Ragdoll_166.jpg,3,Ragdoll,train
+813,Ragdoll_168.jpg,3,Ragdoll,train
+814,Ragdoll_169.jpg,3,Ragdoll,train
+815,Ragdoll_16.jpg,3,Ragdoll,train
+816,Ragdoll_170.jpg,3,Ragdoll,train
+817,Ragdoll_171.jpg,3,Ragdoll,train
+818,Ragdoll_172.jpg,3,Ragdoll,train
+819,Ragdoll_173.jpg,3,Ragdoll,train
+820,Ragdoll_174.jpg,3,Ragdoll,train
+821,Ragdoll_175.jpg,3,Ragdoll,train
+822,Ragdoll_176.jpg,3,Ragdoll,train
+823,Ragdoll_177.jpg,3,Ragdoll,val
+824,Ragdoll_178.jpg,3,Ragdoll,train
+825,Ragdoll_179.jpg,3,Ragdoll,train
+826,Ragdoll_180.jpg,3,Ragdoll,train
+827,Ragdoll_181.jpg,3,Ragdoll,train
+828,Ragdoll_182.jpg,3,Ragdoll,train
+829,Ragdoll_183.jpg,3,Ragdoll,test
+830,Ragdoll_184.jpg,3,Ragdoll,train
+831,Ragdoll_185.jpg,3,Ragdoll,test
+832,Ragdoll_186.jpg,3,Ragdoll,train
+833,Ragdoll_187.jpg,3,Ragdoll,train
+834,Ragdoll_188.jpg,3,Ragdoll,train
+835,Ragdoll_189.jpg,3,Ragdoll,train
+836,Ragdoll_18.jpg,3,Ragdoll,train
+837,Ragdoll_190.jpg,3,Ragdoll,train
+838,Ragdoll_191.jpg,3,Ragdoll,train
+839,Ragdoll_192.jpg,3,Ragdoll,test
+840,Ragdoll_193.jpg,3,Ragdoll,train
+841,Ragdoll_194.jpg,3,Ragdoll,val
+842,Ragdoll_195.jpg,3,Ragdoll,train
+843,Ragdoll_196.jpg,3,Ragdoll,train
+844,Ragdoll_197.jpg,3,Ragdoll,train
+845,Ragdoll_198.jpg,3,Ragdoll,train
+846,Ragdoll_199.jpg,3,Ragdoll,train
+847,Ragdoll_1.jpg,3,Ragdoll,train
+848,Ragdoll_201.jpg,3,Ragdoll,train
+849,Ragdoll_202.jpg,3,Ragdoll,train
+850,samoyed_146.jpg,9,Samoyed,test
+851,samoyed_147.jpg,9,Samoyed,train
+852,samoyed_148.jpg,9,Samoyed,val
+853,samoyed_149.jpg,9,Samoyed,train
+854,samoyed_14.jpg,9,Samoyed,test
+855,samoyed_150.jpg,9,Samoyed,test
+856,samoyed_151.jpg,9,Samoyed,train
+857,samoyed_152.jpg,9,Samoyed,test
+858,samoyed_153.jpg,9,Samoyed,val
+859,samoyed_154.jpg,9,Samoyed,train
+860,samoyed_155.jpg,9,Samoyed,train
+861,samoyed_156.jpg,9,Samoyed,train
+862,samoyed_157.jpg,9,Samoyed,train
+863,samoyed_158.jpg,9,Samoyed,train
+864,samoyed_159.jpg,9,Samoyed,train
+865,samoyed_15.jpg,9,Samoyed,val
+866,samoyed_160.jpg,9,Samoyed,train
+867,samoyed_161.jpg,9,Samoyed,train
+868,samoyed_162.jpg,9,Samoyed,train
+869,samoyed_163.jpg,9,Samoyed,train
+870,samoyed_164.jpg,9,Samoyed,train
+871,samoyed_165.jpg,9,Samoyed,train
+872,samoyed_166.jpg,9,Samoyed,train
+873,samoyed_167.jpg,9,Samoyed,train
+874,samoyed_168.jpg,9,Samoyed,train
+875,samoyed_169.jpg,9,Samoyed,val
+876,samoyed_16.jpg,9,Samoyed,train
+877,samoyed_170.jpg,9,Samoyed,train
+878,samoyed_171.jpg,9,Samoyed,train
+879,samoyed_172.jpg,9,Samoyed,train
+880,samoyed_173.jpg,9,Samoyed,train
+881,samoyed_174.jpg,9,Samoyed,test
+882,samoyed_175.jpg,9,Samoyed,train
+883,samoyed_176.jpg,9,Samoyed,test
+884,samoyed_177.jpg,9,Samoyed,train
+885,samoyed_178.jpg,9,Samoyed,train
+886,samoyed_179.jpg,9,Samoyed,val
+887,samoyed_17.jpg,9,Samoyed,train
+888,samoyed_180.jpg,9,Samoyed,train
+889,samoyed_181.jpg,9,Samoyed,train
+890,samoyed_182.jpg,9,Samoyed,train
+891,samoyed_183.jpg,9,Samoyed,train
+892,samoyed_184.jpg,9,Samoyed,val
+893,samoyed_185.jpg,9,Samoyed,test
+894,samoyed_186.jpg,9,Samoyed,train
+895,samoyed_187.jpg,9,Samoyed,val
+896,samoyed_188.jpg,9,Samoyed,val
+897,samoyed_189.jpg,9,Samoyed,val
+898,samoyed_18.jpg,9,Samoyed,train
+899,samoyed_190.jpg,9,Samoyed,val
+900,Siamese_157.jpg,4,Siamese,train
+901,Siamese_158.jpg,4,Siamese,train
+902,Siamese_159.jpg,4,Siamese,train
+903,Siamese_160.jpg,4,Siamese,train
+904,Siamese_161.jpg,4,Siamese,train
+905,Siamese_162.jpg,4,Siamese,test
+906,Siamese_163.jpg,4,Siamese,train
+907,Siamese_164.jpg,4,Siamese,train
+908,Siamese_165.jpg,4,Siamese,train
+909,Siamese_167.jpg,4,Siamese,train
+910,Siamese_168.jpg,4,Siamese,val
+911,Siamese_169.jpg,4,Siamese,train
+912,Siamese_170.jpg,4,Siamese,val
+913,Siamese_171.jpg,4,Siamese,train
+914,Siamese_172.jpg,4,Siamese,train
+915,Siamese_173.jpg,4,Siamese,train
+916,Siamese_174.jpg,4,Siamese,test
+917,Siamese_175.jpg,4,Siamese,test
+918,Siamese_176.jpg,4,Siamese,train
+919,Siamese_178.jpg,4,Siamese,train
+920,Siamese_179.jpg,4,Siamese,train
+921,Siamese_17.jpg,4,Siamese,train
+922,Siamese_180.jpg,4,Siamese,train
+923,Siamese_181.jpg,4,Siamese,train
+924,Siamese_182.jpg,4,Siamese,train
+925,Siamese_183.jpg,4,Siamese,train
+926,Siamese_184.jpg,4,Siamese,train
+927,Siamese_185.jpg,4,Siamese,test
+928,Siamese_186.jpg,4,Siamese,train
+929,Siamese_187.jpg,4,Siamese,train
+930,Siamese_188.jpg,4,Siamese,test
+931,Siamese_189.jpg,4,Siamese,train
+932,Siamese_18.jpg,4,Siamese,val
+933,Siamese_191.jpg,4,Siamese,train
+934,Siamese_193.jpg,4,Siamese,train
+935,Siamese_194.jpg,4,Siamese,val
+936,Siamese_195.jpg,4,Siamese,train
+937,Siamese_196.jpg,4,Siamese,train
+938,Siamese_198.jpg,4,Siamese,train
+939,Siamese_199.jpg,4,Siamese,train
+940,Siamese_19.jpg,4,Siamese,train
+941,Siamese_200.jpg,4,Siamese,train
+942,Siamese_201.jpg,4,Siamese,train
+943,Siamese_202.jpg,4,Siamese,test
+944,Siamese_204.jpg,4,Siamese,train
+945,Siamese_205.jpg,4,Siamese,train
+946,Siamese_206.jpg,4,Siamese,train
+947,Siamese_207.jpg,4,Siamese,train
+948,Siamese_208.jpg,4,Siamese,val
+949,staffordshire_bull_terrier_149.jpg,6,Staffordshire Bull Terrier,val
+950,staffordshire_bull_terrier_14.jpg,6,Staffordshire Bull Terrier,train
+951,staffordshire_bull_terrier_150.jpg,6,Staffordshire Bull Terrier,val
+952,staffordshire_bull_terrier_151.jpg,6,Staffordshire Bull Terrier,val
+953,staffordshire_bull_terrier_152.jpg,6,Staffordshire Bull Terrier,val
+954,staffordshire_bull_terrier_154.jpg,6,Staffordshire Bull Terrier,train
+955,staffordshire_bull_terrier_155.jpg,6,Staffordshire Bull Terrier,train
+956,staffordshire_bull_terrier_156.jpg,6,Staffordshire Bull Terrier,train
+957,staffordshire_bull_terrier_158.jpg,6,Staffordshire Bull Terrier,test
+958,staffordshire_bull_terrier_159.jpg,6,Staffordshire Bull Terrier,train
+959,staffordshire_bull_terrier_15.jpg,6,Staffordshire Bull Terrier,train
+960,staffordshire_bull_terrier_160.jpg,6,Staffordshire Bull Terrier,train
+961,staffordshire_bull_terrier_162.jpg,6,Staffordshire Bull Terrier,train
+962,staffordshire_bull_terrier_163.jpg,6,Staffordshire Bull Terrier,train
+963,staffordshire_bull_terrier_165.jpg,6,Staffordshire Bull Terrier,train
+964,staffordshire_bull_terrier_166.jpg,6,Staffordshire Bull Terrier,train
+965,staffordshire_bull_terrier_167.jpg,6,Staffordshire Bull Terrier,test
+966,staffordshire_bull_terrier_168.jpg,6,Staffordshire Bull Terrier,train
+967,staffordshire_bull_terrier_169.jpg,6,Staffordshire Bull Terrier,train
+968,staffordshire_bull_terrier_16.jpg,6,Staffordshire Bull Terrier,train
+969,staffordshire_bull_terrier_170.jpg,6,Staffordshire Bull Terrier,train
+970,staffordshire_bull_terrier_171.jpg,6,Staffordshire Bull Terrier,test
+971,staffordshire_bull_terrier_172.jpg,6,Staffordshire Bull Terrier,train
+972,staffordshire_bull_terrier_173.jpg,6,Staffordshire Bull Terrier,val
+973,staffordshire_bull_terrier_174.jpg,6,Staffordshire Bull Terrier,train
+974,staffordshire_bull_terrier_175.jpg,6,Staffordshire Bull Terrier,train
+975,staffordshire_bull_terrier_176.jpg,6,Staffordshire Bull Terrier,train
+976,staffordshire_bull_terrier_177.jpg,6,Staffordshire Bull Terrier,test
+977,staffordshire_bull_terrier_179.jpg,6,Staffordshire Bull Terrier,train
+978,staffordshire_bull_terrier_17.jpg,6,Staffordshire Bull Terrier,train
+979,staffordshire_bull_terrier_180.jpg,6,Staffordshire Bull Terrier,val
+980,staffordshire_bull_terrier_181.jpg,6,Staffordshire Bull Terrier,val
+981,staffordshire_bull_terrier_183.jpg,6,Staffordshire Bull Terrier,train
+982,staffordshire_bull_terrier_184.jpg,6,Staffordshire Bull Terrier,train
+983,staffordshire_bull_terrier_185.jpg,6,Staffordshire Bull Terrier,test
+984,staffordshire_bull_terrier_186.jpg,6,Staffordshire Bull Terrier,test
+985,staffordshire_bull_terrier_188.jpg,6,Staffordshire Bull Terrier,train
+986,staffordshire_bull_terrier_189.jpg,6,Staffordshire Bull Terrier,val
+987,staffordshire_bull_terrier_18.jpg,6,Staffordshire Bull Terrier,train
+988,staffordshire_bull_terrier_190.jpg,6,Staffordshire Bull Terrier,train
+989,staffordshire_bull_terrier_191.jpg,6,Staffordshire Bull Terrier,train
+990,staffordshire_bull_terrier_192.jpg,6,Staffordshire Bull Terrier,val
+991,staffordshire_bull_terrier_194.jpg,6,Staffordshire Bull Terrier,train
+992,staffordshire_bull_terrier_195.jpg,6,Staffordshire Bull Terrier,train
+993,staffordshire_bull_terrier_196.jpg,6,Staffordshire Bull Terrier,train
+994,staffordshire_bull_terrier_197.jpg,6,Staffordshire Bull Terrier,test
+995,staffordshire_bull_terrier_198.jpg,6,Staffordshire Bull Terrier,val
+996,staffordshire_bull_terrier_199.jpg,6,Staffordshire Bull Terrier,train
+997,staffordshire_bull_terrier_19.jpg,6,Staffordshire Bull Terrier,val
+998,staffordshire_bull_terrier_1.jpg,6,Staffordshire Bull Terrier,train
+999,Abyssinian_201.jpg,0,Abyssinian,train
+1000,Abyssinian_202.jpg,0,Abyssinian,train
+1001,Abyssinian_204.jpg,0,Abyssinian,train
+1002,Abyssinian_205.jpg,0,Abyssinian,test
+1003,Abyssinian_206.jpg,0,Abyssinian,train
+1004,Abyssinian_207.jpg,0,Abyssinian,test
+1005,Abyssinian_20.jpg,0,Abyssinian,train
+1006,Abyssinian_210.jpg,0,Abyssinian,val
+1007,Abyssinian_212.jpg,0,Abyssinian,train
+1008,Abyssinian_213.jpg,0,Abyssinian,train
+1009,Abyssinian_215.jpg,0,Abyssinian,val
+1010,Abyssinian_216.jpg,0,Abyssinian,train
+1011,Abyssinian_217.jpg,0,Abyssinian,train
+1012,Abyssinian_219.jpg,0,Abyssinian,train
+1013,Abyssinian_21.jpg,0,Abyssinian,train
+1014,Abyssinian_220.jpg,0,Abyssinian,train
+1015,Abyssinian_221.jpg,0,Abyssinian,test
+1016,Abyssinian_223.jpg,0,Abyssinian,train
+1017,Abyssinian_224.jpg,0,Abyssinian,train
+1018,Abyssinian_225.jpg,0,Abyssinian,train
+1019,Abyssinian_226.jpg,0,Abyssinian,train
+1020,Abyssinian_228.jpg,0,Abyssinian,train
+1021,Abyssinian_22.jpg,0,Abyssinian,train
+1022,Abyssinian_230.jpg,0,Abyssinian,train
+1023,Abyssinian_232.jpg,0,Abyssinian,train
+1024,Abyssinian_24.jpg,0,Abyssinian,train
+1025,Abyssinian_25.jpg,0,Abyssinian,train
+1026,Abyssinian_26.jpg,0,Abyssinian,train
+1027,Abyssinian_27.jpg,0,Abyssinian,train
+1028,Abyssinian_29.jpg,0,Abyssinian,val
+1029,Abyssinian_2.jpg,0,Abyssinian,val
+1030,Abyssinian_30.jpg,0,Abyssinian,test
+1031,Abyssinian_31.jpg,0,Abyssinian,train
+1032,Abyssinian_32.jpg,0,Abyssinian,test
+1033,Abyssinian_33.jpg,0,Abyssinian,test
+1034,Abyssinian_36.jpg,0,Abyssinian,train
+1035,Abyssinian_37.jpg,0,Abyssinian,train
+1036,Abyssinian_3.jpg,0,Abyssinian,train
+1037,Abyssinian_40.jpg,0,Abyssinian,train
+1038,Abyssinian_43.jpg,0,Abyssinian,train
+1039,Abyssinian_44.jpg,0,Abyssinian,train
+1040,Abyssinian_45.jpg,0,Abyssinian,train
+1041,Abyssinian_46.jpg,0,Abyssinian,train
+1042,Abyssinian_47.jpg,0,Abyssinian,train
+1043,Abyssinian_48.jpg,0,Abyssinian,train
+1044,Abyssinian_49.jpg,0,Abyssinian,test
+1045,Abyssinian_4.jpg,0,Abyssinian,train
+1046,Abyssinian_50.jpg,0,Abyssinian,train
+1047,Abyssinian_51.jpg,0,Abyssinian,train
+1048,Abyssinian_52.jpg,0,Abyssinian,val
+1049,Abyssinian_54.jpg,0,Abyssinian,train
+1050,Abyssinian_55.jpg,0,Abyssinian,val
+1051,Abyssinian_56.jpg,0,Abyssinian,train
+1052,Abyssinian_57.jpg,0,Abyssinian,train
+1053,Abyssinian_58.jpg,0,Abyssinian,train
+1054,Abyssinian_5.jpg,0,Abyssinian,train
+1055,Abyssinian_60.jpg,0,Abyssinian,train
+1056,Abyssinian_61.jpg,0,Abyssinian,test
+1057,Abyssinian_62.jpg,0,Abyssinian,train
+1058,Abyssinian_63.jpg,0,Abyssinian,train
+1059,Abyssinian_65.jpg,0,Abyssinian,test
+1060,Abyssinian_66.jpg,0,Abyssinian,val
+1061,Abyssinian_67.jpg,0,Abyssinian,train
+1062,Abyssinian_68.jpg,0,Abyssinian,train
+1063,Abyssinian_69.jpg,0,Abyssinian,test
+1064,Abyssinian_6.jpg,0,Abyssinian,train
+1065,Abyssinian_70.jpg,0,Abyssinian,train
+1066,Abyssinian_71.jpg,0,Abyssinian,train
+1067,Abyssinian_72.jpg,0,Abyssinian,train
+1068,Abyssinian_73.jpg,0,Abyssinian,test
+1069,Abyssinian_74.jpg,0,Abyssinian,train
+1070,Abyssinian_75.jpg,0,Abyssinian,train
+1071,Abyssinian_76.jpg,0,Abyssinian,train
+1072,Abyssinian_77.jpg,0,Abyssinian,train
+1073,Abyssinian_78.jpg,0,Abyssinian,val
+1074,Abyssinian_79.jpg,0,Abyssinian,test
+1075,Abyssinian_7.jpg,0,Abyssinian,train
+1076,Abyssinian_80.jpg,0,Abyssinian,train
+1077,Abyssinian_81.jpg,0,Abyssinian,train
+1078,Abyssinian_83.jpg,0,Abyssinian,train
+1079,Abyssinian_84.jpg,0,Abyssinian,val
+1080,Abyssinian_85.jpg,0,Abyssinian,train
+1081,Abyssinian_86.jpg,0,Abyssinian,train
+1082,Abyssinian_87.jpg,0,Abyssinian,train
+1083,Abyssinian_88.jpg,0,Abyssinian,test
+1084,Abyssinian_89.jpg,0,Abyssinian,val
+1085,Abyssinian_8.jpg,0,Abyssinian,train
+1086,Abyssinian_90.jpg,0,Abyssinian,train
+1087,Abyssinian_91.jpg,0,Abyssinian,train
+1088,Abyssinian_92.jpg,0,Abyssinian,val
+1089,Abyssinian_93.jpg,0,Abyssinian,val
+1090,Abyssinian_94.jpg,0,Abyssinian,train
+1091,Abyssinian_95.jpg,0,Abyssinian,val
+1092,Abyssinian_96.jpg,0,Abyssinian,train
+1093,Abyssinian_97.jpg,0,Abyssinian,val
+1094,Abyssinian_98.jpg,0,Abyssinian,train
+1095,Abyssinian_99.jpg,0,Abyssinian,train
+1096,Abyssinian_9.jpg,0,Abyssinian,test
+1097,american_pit_bull_terrier_191.jpg,5,American Pit Bull Terrier,train
+1098,american_pit_bull_terrier_192.jpg,5,American Pit Bull Terrier,train
+1099,american_pit_bull_terrier_193.jpg,5,American Pit Bull Terrier,train
+1100,american_pit_bull_terrier_194.jpg,5,American Pit Bull Terrier,test
+1101,american_pit_bull_terrier_195.jpg,5,American Pit Bull Terrier,train
+1102,american_pit_bull_terrier_196.jpg,5,American Pit Bull Terrier,train
+1103,american_pit_bull_terrier_197.jpg,5,American Pit Bull Terrier,val
+1104,american_pit_bull_terrier_198.jpg,5,American Pit Bull Terrier,train
+1105,american_pit_bull_terrier_199.jpg,5,American Pit Bull Terrier,val
+1106,american_pit_bull_terrier_19.jpg,5,American Pit Bull Terrier,train
+1107,american_pit_bull_terrier_1.jpg,5,American Pit Bull Terrier,test
+1108,american_pit_bull_terrier_200.jpg,5,American Pit Bull Terrier,train
+1109,american_pit_bull_terrier_201.jpg,5,American Pit Bull Terrier,train
+1110,american_pit_bull_terrier_202.jpg,5,American Pit Bull Terrier,train
+1111,american_pit_bull_terrier_203.jpg,5,American Pit Bull Terrier,val
+1112,american_pit_bull_terrier_204.jpg,5,American Pit Bull Terrier,train
+1113,american_pit_bull_terrier_20.jpg,5,American Pit Bull Terrier,train
+1114,american_pit_bull_terrier_21.jpg,5,American Pit Bull Terrier,val
+1115,american_pit_bull_terrier_22.jpg,5,American Pit Bull Terrier,train
+1116,american_pit_bull_terrier_23.jpg,5,American Pit Bull Terrier,train
+1117,american_pit_bull_terrier_24.jpg,5,American Pit Bull Terrier,train
+1118,american_pit_bull_terrier_25.jpg,5,American Pit Bull Terrier,train
+1119,american_pit_bull_terrier_26.jpg,5,American Pit Bull Terrier,val
+1120,american_pit_bull_terrier_27.jpg,5,American Pit Bull Terrier,train
+1121,american_pit_bull_terrier_28.jpg,5,American Pit Bull Terrier,train
+1122,american_pit_bull_terrier_29.jpg,5,American Pit Bull Terrier,train
+1123,american_pit_bull_terrier_2.jpg,5,American Pit Bull Terrier,train
+1124,american_pit_bull_terrier_30.jpg,5,American Pit Bull Terrier,train
+1125,american_pit_bull_terrier_31.jpg,5,American Pit Bull Terrier,train
+1126,american_pit_bull_terrier_32.jpg,5,American Pit Bull Terrier,val
+1127,american_pit_bull_terrier_33.jpg,5,American Pit Bull Terrier,train
+1128,american_pit_bull_terrier_35.jpg,5,American Pit Bull Terrier,train
+1129,american_pit_bull_terrier_36.jpg,5,American Pit Bull Terrier,train
+1130,american_pit_bull_terrier_37.jpg,5,American Pit Bull Terrier,test
+1131,american_pit_bull_terrier_38.jpg,5,American Pit Bull Terrier,test
+1132,american_pit_bull_terrier_39.jpg,5,American Pit Bull Terrier,val
+1133,american_pit_bull_terrier_40.jpg,5,American Pit Bull Terrier,train
+1134,american_pit_bull_terrier_41.jpg,5,American Pit Bull Terrier,train
+1135,american_pit_bull_terrier_42.jpg,5,American Pit Bull Terrier,train
+1136,american_pit_bull_terrier_43.jpg,5,American Pit Bull Terrier,train
+1137,american_pit_bull_terrier_44.jpg,5,American Pit Bull Terrier,test
+1138,american_pit_bull_terrier_45.jpg,5,American Pit Bull Terrier,train
+1139,american_pit_bull_terrier_46.jpg,5,American Pit Bull Terrier,train
+1140,american_pit_bull_terrier_47.jpg,5,American Pit Bull Terrier,train
+1141,american_pit_bull_terrier_48.jpg,5,American Pit Bull Terrier,train
+1142,american_pit_bull_terrier_49.jpg,5,American Pit Bull Terrier,train
+1143,american_pit_bull_terrier_4.jpg,5,American Pit Bull Terrier,train
+1144,american_pit_bull_terrier_50.jpg,5,American Pit Bull Terrier,test
+1145,american_pit_bull_terrier_51.jpg,5,American Pit Bull Terrier,train
+1146,american_pit_bull_terrier_52.jpg,5,American Pit Bull Terrier,train
+1147,american_pit_bull_terrier_53.jpg,5,American Pit Bull Terrier,train
+1148,american_pit_bull_terrier_54.jpg,5,American Pit Bull Terrier,train
+1149,american_pit_bull_terrier_55.jpg,5,American Pit Bull Terrier,train
+1150,american_pit_bull_terrier_56.jpg,5,American Pit Bull Terrier,train
+1151,american_pit_bull_terrier_57.jpg,5,American Pit Bull Terrier,test
+1152,american_pit_bull_terrier_58.jpg,5,American Pit Bull Terrier,train
+1153,american_pit_bull_terrier_59.jpg,5,American Pit Bull Terrier,test
+1154,american_pit_bull_terrier_5.jpg,5,American Pit Bull Terrier,train
+1155,american_pit_bull_terrier_60.jpg,5,American Pit Bull Terrier,test
+1156,american_pit_bull_terrier_61.jpg,5,American Pit Bull Terrier,train
+1157,american_pit_bull_terrier_62.jpg,5,American Pit Bull Terrier,train
+1158,american_pit_bull_terrier_63.jpg,5,American Pit Bull Terrier,train
+1159,american_pit_bull_terrier_64.jpg,5,American Pit Bull Terrier,val
+1160,american_pit_bull_terrier_65.jpg,5,American Pit Bull Terrier,val
+1161,american_pit_bull_terrier_66.jpg,5,American Pit Bull Terrier,train
+1162,american_pit_bull_terrier_67.jpg,5,American Pit Bull Terrier,train
+1163,american_pit_bull_terrier_68.jpg,5,American Pit Bull Terrier,val
+1164,american_pit_bull_terrier_69.jpg,5,American Pit Bull Terrier,train
+1165,american_pit_bull_terrier_6.jpg,5,American Pit Bull Terrier,train
+1166,american_pit_bull_terrier_70.jpg,5,American Pit Bull Terrier,val
+1167,american_pit_bull_terrier_71.jpg,5,American Pit Bull Terrier,train
+1168,american_pit_bull_terrier_72.jpg,5,American Pit Bull Terrier,train
+1169,american_pit_bull_terrier_73.jpg,5,American Pit Bull Terrier,val
+1170,american_pit_bull_terrier_74.jpg,5,American Pit Bull Terrier,train
+1171,american_pit_bull_terrier_75.jpg,5,American Pit Bull Terrier,train
+1172,american_pit_bull_terrier_76.jpg,5,American Pit Bull Terrier,val
+1173,american_pit_bull_terrier_77.jpg,5,American Pit Bull Terrier,train
+1174,american_pit_bull_terrier_78.jpg,5,American Pit Bull Terrier,test
+1175,american_pit_bull_terrier_79.jpg,5,American Pit Bull Terrier,test
+1176,american_pit_bull_terrier_7.jpg,5,American Pit Bull Terrier,train
+1177,american_pit_bull_terrier_80.jpg,5,American Pit Bull Terrier,train
+1178,american_pit_bull_terrier_81.jpg,5,American Pit Bull Terrier,train
+1179,american_pit_bull_terrier_82.jpg,5,American Pit Bull Terrier,val
+1180,american_pit_bull_terrier_84.jpg,5,American Pit Bull Terrier,test
+1181,american_pit_bull_terrier_86.jpg,5,American Pit Bull Terrier,val
+1182,american_pit_bull_terrier_87.jpg,5,American Pit Bull Terrier,val
+1183,american_pit_bull_terrier_88.jpg,5,American Pit Bull Terrier,train
+1184,american_pit_bull_terrier_89.jpg,5,American Pit Bull Terrier,test
+1185,american_pit_bull_terrier_8.jpg,5,American Pit Bull Terrier,val
+1186,american_pit_bull_terrier_90.jpg,5,American Pit Bull Terrier,val
+1187,american_pit_bull_terrier_91.jpg,5,American Pit Bull Terrier,train
+1188,american_pit_bull_terrier_92.jpg,5,American Pit Bull Terrier,val
+1189,american_pit_bull_terrier_93.jpg,5,American Pit Bull Terrier,test
+1190,american_pit_bull_terrier_94.jpg,5,American Pit Bull Terrier,train
+1191,american_pit_bull_terrier_95.jpg,5,American Pit Bull Terrier,train
+1192,american_pit_bull_terrier_96.jpg,5,American Pit Bull Terrier,train
+1193,american_pit_bull_terrier_97.jpg,5,American Pit Bull Terrier,train
+1194,american_pit_bull_terrier_98.jpg,5,American Pit Bull Terrier,val
+1195,american_pit_bull_terrier_99.jpg,5,American Pit Bull Terrier,test
+1196,american_pit_bull_terrier_9.jpg,5,American Pit Bull Terrier,test
+1197,basset_hound_191.jpg,8,Basset Hound,train
+1198,basset_hound_192.jpg,8,Basset Hound,train
+1199,basset_hound_193.jpg,8,Basset Hound,train
+1200,basset_hound_194.jpg,8,Basset Hound,val
+1201,basset_hound_195.jpg,8,Basset Hound,train
+1202,basset_hound_196.jpg,8,Basset Hound,train
+1203,basset_hound_197.jpg,8,Basset Hound,train
+1204,basset_hound_198.jpg,8,Basset Hound,train
+1205,basset_hound_199.jpg,8,Basset Hound,test
+1206,basset_hound_19.jpg,8,Basset Hound,train
+1207,basset_hound_1.jpg,8,Basset Hound,test
+1208,basset_hound_200.jpg,8,Basset Hound,train
+1209,basset_hound_20.jpg,8,Basset Hound,test
+1210,basset_hound_21.jpg,8,Basset Hound,train
+1211,basset_hound_22.jpg,8,Basset Hound,train
+1212,basset_hound_23.jpg,8,Basset Hound,test
+1213,basset_hound_24.jpg,8,Basset Hound,train
+1214,basset_hound_25.jpg,8,Basset Hound,val
+1215,basset_hound_26.jpg,8,Basset Hound,test
+1216,basset_hound_27.jpg,8,Basset Hound,test
+1217,basset_hound_28.jpg,8,Basset Hound,train
+1218,basset_hound_29.jpg,8,Basset Hound,train
+1219,basset_hound_2.jpg,8,Basset Hound,train
+1220,basset_hound_30.jpg,8,Basset Hound,train
+1221,basset_hound_31.jpg,8,Basset Hound,val
+1222,basset_hound_32.jpg,8,Basset Hound,train
+1223,basset_hound_33.jpg,8,Basset Hound,train
+1224,basset_hound_34.jpg,8,Basset Hound,train
+1225,basset_hound_35.jpg,8,Basset Hound,train
+1226,basset_hound_36.jpg,8,Basset Hound,val
+1227,basset_hound_37.jpg,8,Basset Hound,train
+1228,basset_hound_38.jpg,8,Basset Hound,train
+1229,basset_hound_39.jpg,8,Basset Hound,train
+1230,basset_hound_3.jpg,8,Basset Hound,test
+1231,basset_hound_40.jpg,8,Basset Hound,train
+1232,basset_hound_41.jpg,8,Basset Hound,train
+1233,basset_hound_42.jpg,8,Basset Hound,train
+1234,basset_hound_43.jpg,8,Basset Hound,test
+1235,basset_hound_44.jpg,8,Basset Hound,test
+1236,basset_hound_45.jpg,8,Basset Hound,train
+1237,basset_hound_46.jpg,8,Basset Hound,val
+1238,basset_hound_47.jpg,8,Basset Hound,train
+1239,basset_hound_48.jpg,8,Basset Hound,train
+1240,basset_hound_49.jpg,8,Basset Hound,train
+1241,basset_hound_4.jpg,8,Basset Hound,val
+1242,basset_hound_50.jpg,8,Basset Hound,train
+1243,basset_hound_51.jpg,8,Basset Hound,train
+1244,basset_hound_52.jpg,8,Basset Hound,val
+1245,basset_hound_53.jpg,8,Basset Hound,train
+1246,basset_hound_54.jpg,8,Basset Hound,test
+1247,basset_hound_55.jpg,8,Basset Hound,train
+1248,basset_hound_56.jpg,8,Basset Hound,train
+1249,basset_hound_57.jpg,8,Basset Hound,val
+1250,basset_hound_58.jpg,8,Basset Hound,train
+1251,basset_hound_59.jpg,8,Basset Hound,val
+1252,basset_hound_5.jpg,8,Basset Hound,val
+1253,basset_hound_60.jpg,8,Basset Hound,train
+1254,basset_hound_61.jpg,8,Basset Hound,val
+1255,basset_hound_62.jpg,8,Basset Hound,train
+1256,basset_hound_63.jpg,8,Basset Hound,train
+1257,basset_hound_64.jpg,8,Basset Hound,val
+1258,basset_hound_65.jpg,8,Basset Hound,train
+1259,basset_hound_66.jpg,8,Basset Hound,test
+1260,basset_hound_67.jpg,8,Basset Hound,test
+1261,basset_hound_68.jpg,8,Basset Hound,train
+1262,basset_hound_69.jpg,8,Basset Hound,train
+1263,basset_hound_6.jpg,8,Basset Hound,train
+1264,basset_hound_70.jpg,8,Basset Hound,train
+1265,basset_hound_71.jpg,8,Basset Hound,train
+1266,basset_hound_72.jpg,8,Basset Hound,train
+1267,basset_hound_73.jpg,8,Basset Hound,train
+1268,basset_hound_74.jpg,8,Basset Hound,train
+1269,basset_hound_75.jpg,8,Basset Hound,train
+1270,basset_hound_76.jpg,8,Basset Hound,train
+1271,basset_hound_77.jpg,8,Basset Hound,train
+1272,basset_hound_78.jpg,8,Basset Hound,train
+1273,basset_hound_79.jpg,8,Basset Hound,train
+1274,basset_hound_7.jpg,8,Basset Hound,test
+1275,basset_hound_80.jpg,8,Basset Hound,train
+1276,basset_hound_81.jpg,8,Basset Hound,test
+1277,basset_hound_82.jpg,8,Basset Hound,train
+1278,basset_hound_83.jpg,8,Basset Hound,train
+1279,basset_hound_84.jpg,8,Basset Hound,train
+1280,basset_hound_85.jpg,8,Basset Hound,train
+1281,basset_hound_86.jpg,8,Basset Hound,train
+1282,basset_hound_87.jpg,8,Basset Hound,train
+1283,basset_hound_88.jpg,8,Basset Hound,train
+1284,basset_hound_89.jpg,8,Basset Hound,val
+1285,basset_hound_8.jpg,8,Basset Hound,train
+1286,basset_hound_90.jpg,8,Basset Hound,train
+1287,basset_hound_91.jpg,8,Basset Hound,train
+1288,basset_hound_92.jpg,8,Basset Hound,train
+1289,basset_hound_93.jpg,8,Basset Hound,test
+1290,basset_hound_94.jpg,8,Basset Hound,test
+1291,basset_hound_95.jpg,8,Basset Hound,train
+1292,basset_hound_96.jpg,8,Basset Hound,train
+1293,basset_hound_97.jpg,8,Basset Hound,train
+1294,basset_hound_98.jpg,8,Basset Hound,train
+1295,basset_hound_99.jpg,8,Basset Hound,val
+1296,basset_hound_9.jpg,8,Basset Hound,test
+1297,beagle_195.jpg,7,Beagle,train
+1298,beagle_196.jpg,7,Beagle,train
+1299,beagle_197.jpg,7,Beagle,test
+1300,beagle_198.jpg,7,Beagle,train
+1301,beagle_199.jpg,7,Beagle,train
+1302,beagle_19.jpg,7,Beagle,train
+1303,beagle_1.jpg,7,Beagle,train
+1304,beagle_200.jpg,7,Beagle,test
+1305,beagle_201.jpg,7,Beagle,train
+1306,beagle_202.jpg,7,Beagle,train
+1307,beagle_203.jpg,7,Beagle,train
+1308,beagle_204.jpg,7,Beagle,train
+1309,beagle_20.jpg,7,Beagle,train
+1310,beagle_21.jpg,7,Beagle,train
+1311,beagle_22.jpg,7,Beagle,test
+1312,beagle_23.jpg,7,Beagle,val
+1313,beagle_24.jpg,7,Beagle,test
+1314,beagle_25.jpg,7,Beagle,train
+1315,beagle_26.jpg,7,Beagle,train
+1316,beagle_27.jpg,7,Beagle,test
+1317,beagle_28.jpg,7,Beagle,val
+1318,beagle_29.jpg,7,Beagle,train
+1319,beagle_2.jpg,7,Beagle,test
+1320,beagle_30.jpg,7,Beagle,train
+1321,beagle_31.jpg,7,Beagle,train
+1322,beagle_32.jpg,7,Beagle,test
+1323,beagle_33.jpg,7,Beagle,train
+1324,beagle_34.jpg,7,Beagle,train
+1325,beagle_35.jpg,7,Beagle,train
+1326,beagle_36.jpg,7,Beagle,train
+1327,beagle_37.jpg,7,Beagle,test
+1328,beagle_38.jpg,7,Beagle,train
+1329,beagle_39.jpg,7,Beagle,train
+1330,beagle_3.jpg,7,Beagle,train
+1331,beagle_40.jpg,7,Beagle,test
+1332,beagle_41.jpg,7,Beagle,train
+1333,beagle_42.jpg,7,Beagle,test
+1334,beagle_43.jpg,7,Beagle,train
+1335,beagle_44.jpg,7,Beagle,train
+1336,beagle_45.jpg,7,Beagle,train
+1337,beagle_46.jpg,7,Beagle,val
+1338,beagle_47.jpg,7,Beagle,train
+1339,beagle_48.jpg,7,Beagle,train
+1340,beagle_49.jpg,7,Beagle,train
+1341,beagle_4.jpg,7,Beagle,test
+1342,beagle_50.jpg,7,Beagle,val
+1343,beagle_51.jpg,7,Beagle,train
+1344,beagle_52.jpg,7,Beagle,train
+1345,beagle_53.jpg,7,Beagle,train
+1346,beagle_54.jpg,7,Beagle,train
+1347,beagle_55.jpg,7,Beagle,val
+1348,beagle_56.jpg,7,Beagle,val
+1349,beagle_57.jpg,7,Beagle,val
+1350,beagle_58.jpg,7,Beagle,train
+1351,beagle_59.jpg,7,Beagle,train
+1352,beagle_5.jpg,7,Beagle,train
+1353,beagle_60.jpg,7,Beagle,train
+1354,beagle_61.jpg,7,Beagle,train
+1355,beagle_62.jpg,7,Beagle,val
+1356,beagle_63.jpg,7,Beagle,test
+1357,beagle_64.jpg,7,Beagle,train
+1358,beagle_65.jpg,7,Beagle,train
+1359,beagle_66.jpg,7,Beagle,train
+1360,beagle_67.jpg,7,Beagle,train
+1361,beagle_68.jpg,7,Beagle,train
+1362,beagle_69.jpg,7,Beagle,val
+1363,beagle_6.jpg,7,Beagle,val
+1364,beagle_70.jpg,7,Beagle,val
+1365,beagle_71.jpg,7,Beagle,train
+1366,beagle_72.jpg,7,Beagle,train
+1367,beagle_73.jpg,7,Beagle,train
+1368,beagle_74.jpg,7,Beagle,train
+1369,beagle_75.jpg,7,Beagle,test
+1370,beagle_76.jpg,7,Beagle,train
+1371,beagle_77.jpg,7,Beagle,val
+1372,beagle_78.jpg,7,Beagle,test
+1373,beagle_79.jpg,7,Beagle,train
+1374,beagle_7.jpg,7,Beagle,test
+1375,beagle_80.jpg,7,Beagle,train
+1376,beagle_81.jpg,7,Beagle,val
+1377,beagle_82.jpg,7,Beagle,train
+1378,beagle_83.jpg,7,Beagle,train
+1379,beagle_84.jpg,7,Beagle,train
+1380,beagle_85.jpg,7,Beagle,train
+1381,beagle_86.jpg,7,Beagle,train
+1382,beagle_87.jpg,7,Beagle,train
+1383,beagle_88.jpg,7,Beagle,train
+1384,beagle_89.jpg,7,Beagle,train
+1385,beagle_8.jpg,7,Beagle,train
+1386,beagle_90.jpg,7,Beagle,train
+1387,beagle_91.jpg,7,Beagle,val
+1388,beagle_92.jpg,7,Beagle,train
+1389,beagle_93.jpg,7,Beagle,train
+1390,beagle_94.jpg,7,Beagle,train
+1391,beagle_95.jpg,7,Beagle,train
+1392,beagle_96.jpg,7,Beagle,train
+1393,beagle_97.jpg,7,Beagle,val
+1394,beagle_98.jpg,7,Beagle,val
+1395,beagle_99.jpg,7,Beagle,train
+1396,beagle_9.jpg,7,Beagle,train
+1397,Bengal_192.jpg,1,Bengal,train
+1398,Bengal_193.jpg,1,Bengal,train
+1399,Bengal_194.jpg,1,Bengal,train
+1400,Bengal_195.jpg,1,Bengal,val
+1401,Bengal_196.jpg,1,Bengal,train
+1402,Bengal_197.jpg,1,Bengal,train
+1403,Bengal_198.jpg,1,Bengal,train
+1404,Bengal_199.jpg,1,Bengal,train
+1405,Bengal_19.jpg,1,Bengal,train
+1406,Bengal_1.jpg,1,Bengal,train
+1407,Bengal_200.jpg,1,Bengal,train
+1408,Bengal_201.jpg,1,Bengal,test
+1409,Bengal_20.jpg,1,Bengal,val
+1410,Bengal_21.jpg,1,Bengal,train
+1411,Bengal_22.jpg,1,Bengal,train
+1412,Bengal_23.jpg,1,Bengal,val
+1413,Bengal_24.jpg,1,Bengal,train
+1414,Bengal_25.jpg,1,Bengal,train
+1415,Bengal_26.jpg,1,Bengal,train
+1416,Bengal_27.jpg,1,Bengal,val
+1417,Bengal_28.jpg,1,Bengal,train
+1418,Bengal_29.jpg,1,Bengal,train
+1419,Bengal_2.jpg,1,Bengal,test
+1420,Bengal_30.jpg,1,Bengal,test
+1421,Bengal_31.jpg,1,Bengal,train
+1422,Bengal_32.jpg,1,Bengal,train
+1423,Bengal_33.jpg,1,Bengal,train
+1424,Bengal_34.jpg,1,Bengal,val
+1425,Bengal_35.jpg,1,Bengal,val
+1426,Bengal_36.jpg,1,Bengal,train
+1427,Bengal_37.jpg,1,Bengal,test
+1428,Bengal_38.jpg,1,Bengal,train
+1429,Bengal_39.jpg,1,Bengal,train
+1430,Bengal_3.jpg,1,Bengal,train
+1431,Bengal_40.jpg,1,Bengal,train
+1432,Bengal_41.jpg,1,Bengal,train
+1433,Bengal_42.jpg,1,Bengal,train
+1434,Bengal_43.jpg,1,Bengal,train
+1435,Bengal_44.jpg,1,Bengal,test
+1436,Bengal_45.jpg,1,Bengal,val
+1437,Bengal_46.jpg,1,Bengal,train
+1438,Bengal_47.jpg,1,Bengal,train
+1439,Bengal_48.jpg,1,Bengal,train
+1440,Bengal_49.jpg,1,Bengal,val
+1441,Bengal_4.jpg,1,Bengal,val
+1442,Bengal_50.jpg,1,Bengal,train
+1443,Bengal_51.jpg,1,Bengal,test
+1444,Bengal_52.jpg,1,Bengal,val
+1445,Bengal_53.jpg,1,Bengal,train
+1446,Bengal_54.jpg,1,Bengal,train
+1447,Bengal_55.jpg,1,Bengal,test
+1448,Bengal_56.jpg,1,Bengal,train
+1449,Bengal_57.jpg,1,Bengal,test
+1450,Bengal_58.jpg,1,Bengal,train
+1451,Bengal_59.jpg,1,Bengal,train
+1452,Bengal_5.jpg,1,Bengal,val
+1453,Bengal_60.jpg,1,Bengal,train
+1454,Bengal_61.jpg,1,Bengal,train
+1455,Bengal_62.jpg,1,Bengal,val
+1456,Bengal_63.jpg,1,Bengal,val
+1457,Bengal_64.jpg,1,Bengal,val
+1458,Bengal_65.jpg,1,Bengal,val
+1459,Bengal_66.jpg,1,Bengal,train
+1460,Bengal_67.jpg,1,Bengal,test
+1461,Bengal_68.jpg,1,Bengal,train
+1462,Bengal_69.jpg,1,Bengal,train
+1463,Bengal_6.jpg,1,Bengal,test
+1464,Bengal_70.jpg,1,Bengal,val
+1465,Bengal_71.jpg,1,Bengal,train
+1466,Bengal_72.jpg,1,Bengal,train
+1467,Bengal_73.jpg,1,Bengal,train
+1468,Bengal_74.jpg,1,Bengal,train
+1469,Bengal_75.jpg,1,Bengal,train
+1470,Bengal_76.jpg,1,Bengal,train
+1471,Bengal_77.jpg,1,Bengal,train
+1472,Bengal_78.jpg,1,Bengal,train
+1473,Bengal_79.jpg,1,Bengal,test
+1474,Bengal_7.jpg,1,Bengal,test
+1475,Bengal_80.jpg,1,Bengal,test
+1476,Bengal_81.jpg,1,Bengal,train
+1477,Bengal_82.jpg,1,Bengal,val
+1478,Bengal_83.jpg,1,Bengal,train
+1479,Bengal_84.jpg,1,Bengal,test
+1480,Bengal_85.jpg,1,Bengal,val
+1481,Bengal_86.jpg,1,Bengal,train
+1482,Bengal_87.jpg,1,Bengal,train
+1483,Bengal_88.jpg,1,Bengal,test
+1484,Bengal_89.jpg,1,Bengal,train
+1485,Bengal_8.jpg,1,Bengal,train
+1486,Bengal_90.jpg,1,Bengal,val
+1487,Bengal_91.jpg,1,Bengal,train
+1488,Bengal_92.jpg,1,Bengal,train
+1489,Bengal_93.jpg,1,Bengal,train
+1490,Bengal_94.jpg,1,Bengal,train
+1491,Bengal_95.jpg,1,Bengal,train
+1492,Bengal_96.jpg,1,Bengal,train
+1493,Bengal_97.jpg,1,Bengal,train
+1494,Bengal_98.jpg,1,Bengal,test
+1495,Bengal_99.jpg,1,Bengal,train
+1496,Bengal_9.jpg,1,Bengal,train
+1497,Birman_191.jpg,2,Birman,test
+1498,Birman_192.jpg,2,Birman,train
+1499,Birman_193.jpg,2,Birman,train
+1500,Birman_194.jpg,2,Birman,train
+1501,Birman_196.jpg,2,Birman,train
+1502,Birman_197.jpg,2,Birman,val
+1503,Birman_198.jpg,2,Birman,train
+1504,Birman_199.jpg,2,Birman,train
+1505,Birman_19.jpg,2,Birman,train
+1506,Birman_1.jpg,2,Birman,train
+1507,Birman_200.jpg,2,Birman,train
+1508,Birman_201.jpg,2,Birman,train
+1509,Birman_20.jpg,2,Birman,train
+1510,Birman_21.jpg,2,Birman,train
+1511,Birman_22.jpg,2,Birman,train
+1512,Birman_23.jpg,2,Birman,train
+1513,Birman_24.jpg,2,Birman,val
+1514,Birman_25.jpg,2,Birman,val
+1515,Birman_26.jpg,2,Birman,train
+1516,Birman_27.jpg,2,Birman,val
+1517,Birman_28.jpg,2,Birman,train
+1518,Birman_29.jpg,2,Birman,val
+1519,Birman_2.jpg,2,Birman,train
+1520,Birman_30.jpg,2,Birman,val
+1521,Birman_31.jpg,2,Birman,train
+1522,Birman_32.jpg,2,Birman,test
+1523,Birman_33.jpg,2,Birman,val
+1524,Birman_34.jpg,2,Birman,train
+1525,Birman_35.jpg,2,Birman,val
+1526,Birman_36.jpg,2,Birman,train
+1527,Birman_37.jpg,2,Birman,train
+1528,Birman_38.jpg,2,Birman,train
+1529,Birman_39.jpg,2,Birman,train
+1530,Birman_3.jpg,2,Birman,train
+1531,Birman_40.jpg,2,Birman,train
+1532,Birman_41.jpg,2,Birman,train
+1533,Birman_42.jpg,2,Birman,test
+1534,Birman_43.jpg,2,Birman,val
+1535,Birman_44.jpg,2,Birman,train
+1536,Birman_45.jpg,2,Birman,test
+1537,Birman_46.jpg,2,Birman,train
+1538,Birman_47.jpg,2,Birman,train
+1539,Birman_48.jpg,2,Birman,train
+1540,Birman_49.jpg,2,Birman,test
+1541,Birman_4.jpg,2,Birman,test
+1542,Birman_50.jpg,2,Birman,train
+1543,Birman_51.jpg,2,Birman,val
+1544,Birman_52.jpg,2,Birman,train
+1545,Birman_53.jpg,2,Birman,train
+1546,Birman_54.jpg,2,Birman,val
+1547,Birman_55.jpg,2,Birman,train
+1548,Birman_56.jpg,2,Birman,train
+1549,Birman_57.jpg,2,Birman,train
+1550,Birman_58.jpg,2,Birman,val
+1551,Birman_59.jpg,2,Birman,test
+1552,Birman_5.jpg,2,Birman,train
+1553,Birman_60.jpg,2,Birman,train
+1554,Birman_61.jpg,2,Birman,val
+1555,Birman_62.jpg,2,Birman,train
+1556,Birman_63.jpg,2,Birman,train
+1557,Birman_64.jpg,2,Birman,test
+1558,Birman_65.jpg,2,Birman,train
+1559,Birman_66.jpg,2,Birman,train
+1560,Birman_67.jpg,2,Birman,test
+1561,Birman_68.jpg,2,Birman,train
+1562,Birman_69.jpg,2,Birman,train
+1563,Birman_6.jpg,2,Birman,train
+1564,Birman_70.jpg,2,Birman,train
+1565,Birman_71.jpg,2,Birman,val
+1566,Birman_72.jpg,2,Birman,test
+1567,Birman_73.jpg,2,Birman,train
+1568,Birman_74.jpg,2,Birman,train
+1569,Birman_75.jpg,2,Birman,train
+1570,Birman_76.jpg,2,Birman,train
+1571,Birman_77.jpg,2,Birman,train
+1572,Birman_78.jpg,2,Birman,train
+1573,Birman_79.jpg,2,Birman,test
+1574,Birman_7.jpg,2,Birman,test
+1575,Birman_80.jpg,2,Birman,val
+1576,Birman_81.jpg,2,Birman,train
+1577,Birman_82.jpg,2,Birman,train
+1578,Birman_83.jpg,2,Birman,test
+1579,Birman_84.jpg,2,Birman,val
+1580,Birman_85.jpg,2,Birman,train
+1581,Birman_86.jpg,2,Birman,train
+1582,Birman_87.jpg,2,Birman,test
+1583,Birman_88.jpg,2,Birman,train
+1584,Birman_89.jpg,2,Birman,test
+1585,Birman_8.jpg,2,Birman,train
+1586,Birman_90.jpg,2,Birman,train
+1587,Birman_91.jpg,2,Birman,test
+1588,Birman_92.jpg,2,Birman,train
+1589,Birman_93.jpg,2,Birman,train
+1590,Birman_94.jpg,2,Birman,train
+1591,Birman_95.jpg,2,Birman,train
+1592,Birman_96.jpg,2,Birman,train
+1593,Birman_97.jpg,2,Birman,train
+1594,Birman_98.jpg,2,Birman,train
+1595,Birman_99.jpg,2,Birman,train
+1596,Birman_9.jpg,2,Birman,train
+1597,Ragdoll_203.jpg,3,Ragdoll,test
+1598,Ragdoll_204.jpg,3,Ragdoll,val
+1599,Ragdoll_205.jpg,3,Ragdoll,train
+1600,Ragdoll_208.jpg,3,Ragdoll,train
+1601,Ragdoll_20.jpg,3,Ragdoll,train
+1602,Ragdoll_210.jpg,3,Ragdoll,train
+1603,Ragdoll_219.jpg,3,Ragdoll,train
+1604,Ragdoll_224.jpg,3,Ragdoll,train
+1605,Ragdoll_227.jpg,3,Ragdoll,train
+1606,Ragdoll_228.jpg,3,Ragdoll,train
+1607,Ragdoll_234.jpg,3,Ragdoll,train
+1608,Ragdoll_235.jpg,3,Ragdoll,train
+1609,Ragdoll_245.jpg,3,Ragdoll,val
+1610,Ragdoll_24.jpg,3,Ragdoll,train
+1611,Ragdoll_250.jpg,3,Ragdoll,val
+1612,Ragdoll_252.jpg,3,Ragdoll,train
+1613,Ragdoll_254.jpg,3,Ragdoll,val
+1614,Ragdoll_255.jpg,3,Ragdoll,test
+1615,Ragdoll_257.jpg,3,Ragdoll,train
+1616,Ragdoll_258.jpg,3,Ragdoll,train
+1617,Ragdoll_259.jpg,3,Ragdoll,train
+1618,Ragdoll_25.jpg,3,Ragdoll,val
+1619,Ragdoll_260.jpg,3,Ragdoll,train
+1620,Ragdoll_261.jpg,3,Ragdoll,train
+1621,Ragdoll_262.jpg,3,Ragdoll,train
+1622,Ragdoll_263.jpg,3,Ragdoll,train
+1623,Ragdoll_264.jpg,3,Ragdoll,train
+1624,Ragdoll_265.jpg,3,Ragdoll,train
+1625,Ragdoll_26.jpg,3,Ragdoll,train
+1626,Ragdoll_27.jpg,3,Ragdoll,train
+1627,Ragdoll_29.jpg,3,Ragdoll,train
+1628,Ragdoll_2.jpg,3,Ragdoll,train
+1629,Ragdoll_30.jpg,3,Ragdoll,train
+1630,Ragdoll_31.jpg,3,Ragdoll,val
+1631,Ragdoll_32.jpg,3,Ragdoll,train
+1632,Ragdoll_33.jpg,3,Ragdoll,test
+1633,Ragdoll_34.jpg,3,Ragdoll,train
+1634,Ragdoll_35.jpg,3,Ragdoll,train
+1635,Ragdoll_36.jpg,3,Ragdoll,train
+1636,Ragdoll_37.jpg,3,Ragdoll,train
+1637,Ragdoll_3.jpg,3,Ragdoll,val
+1638,Ragdoll_40.jpg,3,Ragdoll,train
+1639,Ragdoll_41.jpg,3,Ragdoll,test
+1640,Ragdoll_42.jpg,3,Ragdoll,val
+1641,Ragdoll_43.jpg,3,Ragdoll,test
+1642,Ragdoll_44.jpg,3,Ragdoll,test
+1643,Ragdoll_45.jpg,3,Ragdoll,val
+1644,Ragdoll_47.jpg,3,Ragdoll,train
+1645,Ragdoll_48.jpg,3,Ragdoll,val
+1646,Ragdoll_49.jpg,3,Ragdoll,train
+1647,Ragdoll_4.jpg,3,Ragdoll,train
+1648,Ragdoll_51.jpg,3,Ragdoll,val
+1649,Ragdoll_52.jpg,3,Ragdoll,test
+1650,Ragdoll_53.jpg,3,Ragdoll,train
+1651,Ragdoll_54.jpg,3,Ragdoll,train
+1652,Ragdoll_56.jpg,3,Ragdoll,test
+1653,Ragdoll_57.jpg,3,Ragdoll,train
+1654,Ragdoll_58.jpg,3,Ragdoll,train
+1655,Ragdoll_59.jpg,3,Ragdoll,val
+1656,Ragdoll_5.jpg,3,Ragdoll,test
+1657,Ragdoll_60.jpg,3,Ragdoll,test
+1658,Ragdoll_62.jpg,3,Ragdoll,train
+1659,Ragdoll_63.jpg,3,Ragdoll,train
+1660,Ragdoll_64.jpg,3,Ragdoll,test
+1661,Ragdoll_67.jpg,3,Ragdoll,train
+1662,Ragdoll_68.jpg,3,Ragdoll,test
+1663,Ragdoll_69.jpg,3,Ragdoll,train
+1664,Ragdoll_6.jpg,3,Ragdoll,train
+1665,Ragdoll_71.jpg,3,Ragdoll,train
+1666,Ragdoll_72.jpg,3,Ragdoll,train
+1667,Ragdoll_73.jpg,3,Ragdoll,val
+1668,Ragdoll_74.jpg,3,Ragdoll,train
+1669,Ragdoll_75.jpg,3,Ragdoll,test
+1670,Ragdoll_76.jpg,3,Ragdoll,train
+1671,Ragdoll_77.jpg,3,Ragdoll,train
+1672,Ragdoll_78.jpg,3,Ragdoll,train
+1673,Ragdoll_79.jpg,3,Ragdoll,test
+1674,Ragdoll_7.jpg,3,Ragdoll,train
+1675,Ragdoll_80.jpg,3,Ragdoll,train
+1676,Ragdoll_81.jpg,3,Ragdoll,train
+1677,Ragdoll_82.jpg,3,Ragdoll,train
+1678,Ragdoll_83.jpg,3,Ragdoll,test
+1679,Ragdoll_84.jpg,3,Ragdoll,train
+1680,Ragdoll_85.jpg,3,Ragdoll,train
+1681,Ragdoll_86.jpg,3,Ragdoll,val
+1682,Ragdoll_87.jpg,3,Ragdoll,train
+1683,Ragdoll_88.jpg,3,Ragdoll,train
+1684,Ragdoll_89.jpg,3,Ragdoll,train
+1685,Ragdoll_8.jpg,3,Ragdoll,test
+1686,Ragdoll_90.jpg,3,Ragdoll,val
+1687,Ragdoll_91.jpg,3,Ragdoll,test
+1688,Ragdoll_92.jpg,3,Ragdoll,val
+1689,Ragdoll_93.jpg,3,Ragdoll,test
+1690,Ragdoll_94.jpg,3,Ragdoll,train
+1691,Ragdoll_95.jpg,3,Ragdoll,train
+1692,Ragdoll_96.jpg,3,Ragdoll,val
+1693,Ragdoll_97.jpg,3,Ragdoll,train
+1694,Ragdoll_98.jpg,3,Ragdoll,train
+1695,Ragdoll_99.jpg,3,Ragdoll,train
+1696,Ragdoll_9.jpg,3,Ragdoll,train
+1697,samoyed_191.jpg,9,Samoyed,train
+1698,samoyed_192.jpg,9,Samoyed,train
+1699,samoyed_194.jpg,9,Samoyed,train
+1700,samoyed_195.jpg,9,Samoyed,train
+1701,samoyed_196.jpg,9,Samoyed,test
+1702,samoyed_197.jpg,9,Samoyed,val
+1703,samoyed_198.jpg,9,Samoyed,train
+1704,samoyed_199.jpg,9,Samoyed,test
+1705,samoyed_19.jpg,9,Samoyed,train
+1706,samoyed_1.jpg,9,Samoyed,train
+1707,samoyed_200.jpg,9,Samoyed,train
+1708,samoyed_202.jpg,9,Samoyed,train
+1709,samoyed_20.jpg,9,Samoyed,train
+1710,samoyed_21.jpg,9,Samoyed,train
+1711,samoyed_22.jpg,9,Samoyed,train
+1712,samoyed_23.jpg,9,Samoyed,train
+1713,samoyed_24.jpg,9,Samoyed,test
+1714,samoyed_25.jpg,9,Samoyed,train
+1715,samoyed_26.jpg,9,Samoyed,test
+1716,samoyed_27.jpg,9,Samoyed,train
+1717,samoyed_28.jpg,9,Samoyed,train
+1718,samoyed_29.jpg,9,Samoyed,test
+1719,samoyed_2.jpg,9,Samoyed,train
+1720,samoyed_30.jpg,9,Samoyed,train
+1721,samoyed_31.jpg,9,Samoyed,train
+1722,samoyed_32.jpg,9,Samoyed,val
+1723,samoyed_33.jpg,9,Samoyed,test
+1724,samoyed_34.jpg,9,Samoyed,train
+1725,samoyed_35.jpg,9,Samoyed,train
+1726,samoyed_36.jpg,9,Samoyed,train
+1727,samoyed_37.jpg,9,Samoyed,test
+1728,samoyed_38.jpg,9,Samoyed,val
+1729,samoyed_39.jpg,9,Samoyed,train
+1730,samoyed_3.jpg,9,Samoyed,val
+1731,samoyed_40.jpg,9,Samoyed,test
+1732,samoyed_41.jpg,9,Samoyed,test
+1733,samoyed_42.jpg,9,Samoyed,train
+1734,samoyed_43.jpg,9,Samoyed,train
+1735,samoyed_44.jpg,9,Samoyed,train
+1736,samoyed_45.jpg,9,Samoyed,train
+1737,samoyed_46.jpg,9,Samoyed,test
+1738,samoyed_47.jpg,9,Samoyed,train
+1739,samoyed_48.jpg,9,Samoyed,train
+1740,samoyed_49.jpg,9,Samoyed,train
+1741,samoyed_4.jpg,9,Samoyed,train
+1742,samoyed_50.jpg,9,Samoyed,test
+1743,samoyed_51.jpg,9,Samoyed,test
+1744,samoyed_52.jpg,9,Samoyed,val
+1745,samoyed_53.jpg,9,Samoyed,train
+1746,samoyed_54.jpg,9,Samoyed,val
+1747,samoyed_55.jpg,9,Samoyed,train
+1748,samoyed_56.jpg,9,Samoyed,train
+1749,samoyed_57.jpg,9,Samoyed,train
+1750,samoyed_58.jpg,9,Samoyed,val
+1751,samoyed_59.jpg,9,Samoyed,train
+1752,samoyed_5.jpg,9,Samoyed,test
+1753,samoyed_60.jpg,9,Samoyed,train
+1754,samoyed_61.jpg,9,Samoyed,train
+1755,samoyed_62.jpg,9,Samoyed,train
+1756,samoyed_63.jpg,9,Samoyed,train
+1757,samoyed_64.jpg,9,Samoyed,train
+1758,samoyed_65.jpg,9,Samoyed,train
+1759,samoyed_66.jpg,9,Samoyed,train
+1760,samoyed_67.jpg,9,Samoyed,val
+1761,samoyed_68.jpg,9,Samoyed,train
+1762,samoyed_69.jpg,9,Samoyed,val
+1763,samoyed_6.jpg,9,Samoyed,test
+1764,samoyed_70.jpg,9,Samoyed,train
+1765,samoyed_71.jpg,9,Samoyed,train
+1766,samoyed_72.jpg,9,Samoyed,train
+1767,samoyed_73.jpg,9,Samoyed,train
+1768,samoyed_74.jpg,9,Samoyed,train
+1769,samoyed_75.jpg,9,Samoyed,val
+1770,samoyed_76.jpg,9,Samoyed,train
+1771,samoyed_77.jpg,9,Samoyed,train
+1772,samoyed_78.jpg,9,Samoyed,train
+1773,samoyed_79.jpg,9,Samoyed,train
+1774,samoyed_7.jpg,9,Samoyed,train
+1775,samoyed_80.jpg,9,Samoyed,train
+1776,samoyed_81.jpg,9,Samoyed,train
+1777,samoyed_82.jpg,9,Samoyed,train
+1778,samoyed_83.jpg,9,Samoyed,train
+1779,samoyed_84.jpg,9,Samoyed,train
+1780,samoyed_85.jpg,9,Samoyed,train
+1781,samoyed_86.jpg,9,Samoyed,train
+1782,samoyed_87.jpg,9,Samoyed,train
+1783,samoyed_88.jpg,9,Samoyed,test
+1784,samoyed_89.jpg,9,Samoyed,val
+1785,samoyed_8.jpg,9,Samoyed,train
+1786,samoyed_90.jpg,9,Samoyed,train
+1787,samoyed_91.jpg,9,Samoyed,train
+1788,samoyed_92.jpg,9,Samoyed,train
+1789,samoyed_93.jpg,9,Samoyed,train
+1790,samoyed_94.jpg,9,Samoyed,val
+1791,samoyed_95.jpg,9,Samoyed,train
+1792,samoyed_96.jpg,9,Samoyed,train
+1793,samoyed_97.jpg,9,Samoyed,train
+1794,samoyed_98.jpg,9,Samoyed,train
+1795,samoyed_99.jpg,9,Samoyed,train
+1796,samoyed_9.jpg,9,Samoyed,train
+1797,Siamese_209.jpg,4,Siamese,train
+1798,Siamese_20.jpg,4,Siamese,train
+1799,Siamese_210.jpg,4,Siamese,train
+1800,Siamese_216.jpg,4,Siamese,train
+1801,Siamese_218.jpg,4,Siamese,train
+1802,Siamese_21.jpg,4,Siamese,train
+1803,Siamese_222.jpg,4,Siamese,train
+1804,Siamese_224.jpg,4,Siamese,val
+1805,Siamese_225.jpg,4,Siamese,train
+1806,Siamese_227.jpg,4,Siamese,val
+1807,Siamese_228.jpg,4,Siamese,train
+1808,Siamese_22.jpg,4,Siamese,test
+1809,Siamese_231.jpg,4,Siamese,train
+1810,Siamese_232.jpg,4,Siamese,test
+1811,Siamese_233.jpg,4,Siamese,train
+1812,Siamese_234.jpg,4,Siamese,val
+1813,Siamese_237.jpg,4,Siamese,train
+1814,Siamese_238.jpg,4,Siamese,train
+1815,Siamese_23.jpg,4,Siamese,train
+1816,Siamese_240.jpg,4,Siamese,val
+1817,Siamese_247.jpg,4,Siamese,train
+1818,Siamese_249.jpg,4,Siamese,test
+1819,Siamese_24.jpg,4,Siamese,train
+1820,Siamese_250.jpg,4,Siamese,train
+1821,Siamese_254.jpg,4,Siamese,train
+1822,Siamese_257.jpg,4,Siamese,train
+1823,Siamese_25.jpg,4,Siamese,val
+1824,Siamese_26.jpg,4,Siamese,val
+1825,Siamese_27.jpg,4,Siamese,train
+1826,Siamese_28.jpg,4,Siamese,train
+1827,Siamese_29.jpg,4,Siamese,val
+1828,Siamese_30.jpg,4,Siamese,train
+1829,Siamese_31.jpg,4,Siamese,train
+1830,Siamese_32.jpg,4,Siamese,train
+1831,Siamese_33.jpg,4,Siamese,train
+1832,Siamese_34.jpg,4,Siamese,train
+1833,Siamese_35.jpg,4,Siamese,train
+1834,Siamese_36.jpg,4,Siamese,train
+1835,Siamese_37.jpg,4,Siamese,test
+1836,Siamese_39.jpg,4,Siamese,train
+1837,Siamese_40.jpg,4,Siamese,train
+1838,Siamese_41.jpg,4,Siamese,train
+1839,Siamese_42.jpg,4,Siamese,train
+1840,Siamese_43.jpg,4,Siamese,train
+1841,Siamese_44.jpg,4,Siamese,train
+1842,Siamese_46.jpg,4,Siamese,test
+1843,Siamese_47.jpg,4,Siamese,test
+1844,Siamese_48.jpg,4,Siamese,test
+1845,Siamese_49.jpg,4,Siamese,train
+1846,Siamese_50.jpg,4,Siamese,train
+1847,Siamese_51.jpg,4,Siamese,train
+1848,Siamese_52.jpg,4,Siamese,test
+1849,Siamese_53.jpg,4,Siamese,train
+1850,Siamese_54.jpg,4,Siamese,train
+1851,Siamese_55.jpg,4,Siamese,val
+1852,Siamese_56.jpg,4,Siamese,val
+1853,Siamese_57.jpg,4,Siamese,train
+1854,Siamese_58.jpg,4,Siamese,train
+1855,Siamese_59.jpg,4,Siamese,train
+1856,Siamese_5.jpg,4,Siamese,train
+1857,Siamese_60.jpg,4,Siamese,train
+1858,Siamese_61.jpg,4,Siamese,train
+1859,Siamese_63.jpg,4,Siamese,train
+1860,Siamese_64.jpg,4,Siamese,train
+1861,Siamese_65.jpg,4,Siamese,train
+1862,Siamese_66.jpg,4,Siamese,train
+1863,Siamese_67.jpg,4,Siamese,train
+1864,Siamese_69.jpg,4,Siamese,train
+1865,Siamese_6.jpg,4,Siamese,train
+1866,Siamese_70.jpg,4,Siamese,test
+1867,Siamese_71.jpg,4,Siamese,train
+1868,Siamese_72.jpg,4,Siamese,train
+1869,Siamese_73.jpg,4,Siamese,val
+1870,Siamese_74.jpg,4,Siamese,train
+1871,Siamese_75.jpg,4,Siamese,train
+1872,Siamese_76.jpg,4,Siamese,val
+1873,Siamese_77.jpg,4,Siamese,val
+1874,Siamese_78.jpg,4,Siamese,train
+1875,Siamese_79.jpg,4,Siamese,train
+1876,Siamese_80.jpg,4,Siamese,test
+1877,Siamese_81.jpg,4,Siamese,val
+1878,Siamese_82.jpg,4,Siamese,test
+1879,Siamese_83.jpg,4,Siamese,train
+1880,Siamese_84.jpg,4,Siamese,train
+1881,Siamese_85.jpg,4,Siamese,val
+1882,Siamese_86.jpg,4,Siamese,train
+1883,Siamese_87.jpg,4,Siamese,val
+1884,Siamese_88.jpg,4,Siamese,test
+1885,Siamese_89.jpg,4,Siamese,train
+1886,Siamese_90.jpg,4,Siamese,train
+1887,Siamese_91.jpg,4,Siamese,train
+1888,Siamese_92.jpg,4,Siamese,train
+1889,Siamese_93.jpg,4,Siamese,train
+1890,Siamese_94.jpg,4,Siamese,train
+1891,Siamese_95.jpg,4,Siamese,train
+1892,Siamese_96.jpg,4,Siamese,test
+1893,Siamese_97.jpg,4,Siamese,train
+1894,Siamese_98.jpg,4,Siamese,val
+1895,Siamese_99.jpg,4,Siamese,train
+1896,Siamese_9.jpg,4,Siamese,test
+1897,staffordshire_bull_terrier_200.jpg,6,Staffordshire Bull Terrier,train
+1898,staffordshire_bull_terrier_201.jpg,6,Staffordshire Bull Terrier,train
+1899,staffordshire_bull_terrier_202.jpg,6,Staffordshire Bull Terrier,train
+1900,staffordshire_bull_terrier_20.jpg,6,Staffordshire Bull Terrier,train
+1901,staffordshire_bull_terrier_21.jpg,6,Staffordshire Bull Terrier,train
+1902,staffordshire_bull_terrier_23.jpg,6,Staffordshire Bull Terrier,train
+1903,staffordshire_bull_terrier_24.jpg,6,Staffordshire Bull Terrier,train
+1904,staffordshire_bull_terrier_25.jpg,6,Staffordshire Bull Terrier,val
+1905,staffordshire_bull_terrier_26.jpg,6,Staffordshire Bull Terrier,train
+1906,staffordshire_bull_terrier_27.jpg,6,Staffordshire Bull Terrier,train
+1907,staffordshire_bull_terrier_28.jpg,6,Staffordshire Bull Terrier,train
+1908,staffordshire_bull_terrier_29.jpg,6,Staffordshire Bull Terrier,test
+1909,staffordshire_bull_terrier_30.jpg,6,Staffordshire Bull Terrier,train
+1910,staffordshire_bull_terrier_31.jpg,6,Staffordshire Bull Terrier,test
+1911,staffordshire_bull_terrier_32.jpg,6,Staffordshire Bull Terrier,val
+1912,staffordshire_bull_terrier_33.jpg,6,Staffordshire Bull Terrier,train
+1913,staffordshire_bull_terrier_34.jpg,6,Staffordshire Bull Terrier,train
+1914,staffordshire_bull_terrier_35.jpg,6,Staffordshire Bull Terrier,train
+1915,staffordshire_bull_terrier_36.jpg,6,Staffordshire Bull Terrier,test
+1916,staffordshire_bull_terrier_37.jpg,6,Staffordshire Bull Terrier,test
+1917,staffordshire_bull_terrier_38.jpg,6,Staffordshire Bull Terrier,train
+1918,staffordshire_bull_terrier_39.jpg,6,Staffordshire Bull Terrier,train
+1919,staffordshire_bull_terrier_3.jpg,6,Staffordshire Bull Terrier,train
+1920,staffordshire_bull_terrier_40.jpg,6,Staffordshire Bull Terrier,train
+1921,staffordshire_bull_terrier_41.jpg,6,Staffordshire Bull Terrier,test
+1922,staffordshire_bull_terrier_42.jpg,6,Staffordshire Bull Terrier,train
+1923,staffordshire_bull_terrier_43.jpg,6,Staffordshire Bull Terrier,train
+1924,staffordshire_bull_terrier_44.jpg,6,Staffordshire Bull Terrier,test
+1925,staffordshire_bull_terrier_45.jpg,6,Staffordshire Bull Terrier,test
+1926,staffordshire_bull_terrier_46.jpg,6,Staffordshire Bull Terrier,val
+1927,staffordshire_bull_terrier_47.jpg,6,Staffordshire Bull Terrier,train
+1928,staffordshire_bull_terrier_48.jpg,6,Staffordshire Bull Terrier,train
+1929,staffordshire_bull_terrier_49.jpg,6,Staffordshire Bull Terrier,train
+1930,staffordshire_bull_terrier_4.jpg,6,Staffordshire Bull Terrier,train
+1931,staffordshire_bull_terrier_50.jpg,6,Staffordshire Bull Terrier,train
+1932,staffordshire_bull_terrier_51.jpg,6,Staffordshire Bull Terrier,train
+1933,staffordshire_bull_terrier_52.jpg,6,Staffordshire Bull Terrier,test
+1934,staffordshire_bull_terrier_53.jpg,6,Staffordshire Bull Terrier,train
+1935,staffordshire_bull_terrier_54.jpg,6,Staffordshire Bull Terrier,train
+1936,staffordshire_bull_terrier_55.jpg,6,Staffordshire Bull Terrier,val
+1937,staffordshire_bull_terrier_56.jpg,6,Staffordshire Bull Terrier,train
+1938,staffordshire_bull_terrier_57.jpg,6,Staffordshire Bull Terrier,test
+1939,staffordshire_bull_terrier_58.jpg,6,Staffordshire Bull Terrier,train
+1940,staffordshire_bull_terrier_59.jpg,6,Staffordshire Bull Terrier,val
+1941,staffordshire_bull_terrier_5.jpg,6,Staffordshire Bull Terrier,train
+1942,staffordshire_bull_terrier_60.jpg,6,Staffordshire Bull Terrier,train
+1943,staffordshire_bull_terrier_61.jpg,6,Staffordshire Bull Terrier,test
+1944,staffordshire_bull_terrier_62.jpg,6,Staffordshire Bull Terrier,val
+1945,staffordshire_bull_terrier_63.jpg,6,Staffordshire Bull Terrier,train
+1946,staffordshire_bull_terrier_64.jpg,6,Staffordshire Bull Terrier,train
+1947,staffordshire_bull_terrier_65.jpg,6,Staffordshire Bull Terrier,val
+1948,staffordshire_bull_terrier_66.jpg,6,Staffordshire Bull Terrier,train
+1949,staffordshire_bull_terrier_67.jpg,6,Staffordshire Bull Terrier,train
+1950,staffordshire_bull_terrier_68.jpg,6,Staffordshire Bull Terrier,train
+1951,staffordshire_bull_terrier_69.jpg,6,Staffordshire Bull Terrier,train
+1952,staffordshire_bull_terrier_6.jpg,6,Staffordshire Bull Terrier,train
+1953,staffordshire_bull_terrier_70.jpg,6,Staffordshire Bull Terrier,train
+1954,staffordshire_bull_terrier_71.jpg,6,Staffordshire Bull Terrier,train
+1955,staffordshire_bull_terrier_72.jpg,6,Staffordshire Bull Terrier,train
+1956,staffordshire_bull_terrier_73.jpg,6,Staffordshire Bull Terrier,train
+1957,staffordshire_bull_terrier_74.jpg,6,Staffordshire Bull Terrier,test
+1958,staffordshire_bull_terrier_75.jpg,6,Staffordshire Bull Terrier,test
+1959,staffordshire_bull_terrier_76.jpg,6,Staffordshire Bull Terrier,val
+1960,staffordshire_bull_terrier_77.jpg,6,Staffordshire Bull Terrier,train
+1961,staffordshire_bull_terrier_78.jpg,6,Staffordshire Bull Terrier,test
+1962,staffordshire_bull_terrier_79.jpg,6,Staffordshire Bull Terrier,train
+1963,staffordshire_bull_terrier_7.jpg,6,Staffordshire Bull Terrier,train
+1964,staffordshire_bull_terrier_80.jpg,6,Staffordshire Bull Terrier,train
+1965,staffordshire_bull_terrier_81.jpg,6,Staffordshire Bull Terrier,val
+1966,staffordshire_bull_terrier_82.jpg,6,Staffordshire Bull Terrier,train
+1967,staffordshire_bull_terrier_83.jpg,6,Staffordshire Bull Terrier,train
+1968,staffordshire_bull_terrier_84.jpg,6,Staffordshire Bull Terrier,train
+1969,staffordshire_bull_terrier_85.jpg,6,Staffordshire Bull Terrier,train
+1970,staffordshire_bull_terrier_86.jpg,6,Staffordshire Bull Terrier,train
+1971,staffordshire_bull_terrier_87.jpg,6,Staffordshire Bull Terrier,val
+1972,staffordshire_bull_terrier_88.jpg,6,Staffordshire Bull Terrier,train
+1973,staffordshire_bull_terrier_89.jpg,6,Staffordshire Bull Terrier,train
+1974,staffordshire_bull_terrier_8.jpg,6,Staffordshire Bull Terrier,train
+1975,staffordshire_bull_terrier_90.jpg,6,Staffordshire Bull Terrier,train
+1976,staffordshire_bull_terrier_91.jpg,6,Staffordshire Bull Terrier,train
+1977,staffordshire_bull_terrier_92.jpg,6,Staffordshire Bull Terrier,train
+1978,staffordshire_bull_terrier_93.jpg,6,Staffordshire Bull Terrier,train
+1979,staffordshire_bull_terrier_94.jpg,6,Staffordshire Bull Terrier,train
+1980,staffordshire_bull_terrier_95.jpg,6,Staffordshire Bull Terrier,train
+1981,staffordshire_bull_terrier_96.jpg,6,Staffordshire Bull Terrier,train
+1982,staffordshire_bull_terrier_97.jpg,6,Staffordshire Bull Terrier,train
+1983,staffordshire_bull_terrier_98.jpg,6,Staffordshire Bull Terrier,val
+1984,staffordshire_bull_terrier_99.jpg,6,Staffordshire Bull Terrier,train
+1985,staffordshire_bull_terrier_9.jpg,6,Staffordshire Bull Terrier,train
